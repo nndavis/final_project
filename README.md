@@ -31,3 +31,7 @@ Questions we want answered:
 - does location adversely affect diversity inclusion?
 - are managers bias in their rating?
 - does location affect overall job rating?
+
+Link to the data set:
+
+https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews?resource=download
