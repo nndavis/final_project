@@ -35,3 +35,7 @@ Questions we want answered:
 Link to the data set:
 
 https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews?resource=download
+
+Link to Data bucket:
+
+https://s3.console.aws.amazon.com/s3/buckets/etdir-finalproject-data?region=us-east-2&tab=objects
