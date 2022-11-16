@@ -1,0 +1,1001 @@
+,name,job_title,industry,location,overall_rating,work_life_balance,culture_values,diversity_inclusion,career_opp,comp_benefits,total employee estimate
+1182,aldi, Customer Service Representative,retail,"Bristol, England, England",3,1.0,2.0,2.0,2.0,1.0,268
+1183,aldi, Customer Service Representative,printing,"Bristol, England, England",3,1.0,2.0,2.0,2.0,1.0,7
+1184,aldi, Sales Assistant,retail,"York, England, England",4,5.0,4.0,4.0,5.0,4.0,268
+1185,aldi, Sales Assistant,printing,"York, England, England",4,5.0,4.0,4.0,5.0,4.0,7
+1186,aldi, Assistant Manager,retail,"Derby, England, England",4,3.0,4.0,5.0,5.0,4.0,268
+1187,aldi, Assistant Manager,printing,"Derby, England, England",4,3.0,4.0,5.0,5.0,4.0,7
+1188,aldi, Store Manager,retail,"Bristol, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1189,aldi, Store Manager,printing,"Bristol, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1192,aldi, Customer Assistant,retail,"Sheffield, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1193,aldi, Customer Assistant,printing,"Sheffield, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1194,aldi, Deputy Manager,retail,"Bristol, England, England",2,1.0,3.0,5.0,3.0,2.0,268
+1195,aldi, Deputy Manager,printing,"Bristol, England, England",2,1.0,3.0,5.0,3.0,2.0,7
+1196,aldi, Store Assistant,retail,"Cockermouth, England, England",5,4.0,3.0,4.0,4.0,4.0,268
+1197,aldi, Store Assistant,printing,"Cockermouth, England, England",5,4.0,3.0,4.0,4.0,4.0,7
+1198,aldi, Store Assistant,retail,"Bradford, Yorkshire and the Humber, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1199,aldi, Store Assistant,printing,"Bradford, Yorkshire and the Humber, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1202,aldi, Store Assistant,retail,"Chesterfield, England, England",5,3.0,5.0,5.0,5.0,5.0,268
+1203,aldi, Store Assistant,printing,"Chesterfield, England, England",5,3.0,5.0,5.0,5.0,5.0,7
+1204,aldi, Sales Associate,retail,"Dumfries, Scotland, Scotland",4,3.0,4.0,3.0,3.0,2.0,268
+1205,aldi, Sales Associate,printing,"Dumfries, Scotland, Scotland",4,3.0,4.0,3.0,3.0,2.0,7
+1212,aldi, Shop Assistant,retail,"Redcar, England, England",2,1.0,2.0,2.0,2.0,2.0,268
+1213,aldi, Shop Assistant,printing,"Redcar, England, England",2,1.0,2.0,2.0,2.0,2.0,7
+1222,aldi, Stocker,retail,"Leicester, England, England",3,3.0,3.0,3.0,2.0,2.0,268
+1223,aldi, Stocker,printing,"Leicester, England, England",3,3.0,3.0,3.0,2.0,2.0,7
+1224,aldi, Warehouse Selector,retail,"Cardiff, Wales, Wales",5,5.0,5.0,5.0,5.0,5.0,268
+1225,aldi, Warehouse Selector,printing,"Cardiff, Wales, Wales",5,5.0,5.0,5.0,5.0,5.0,7
+1226,aldi, Deputy Manager,retail,"Coventry, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1227,aldi, Deputy Manager,printing,"Coventry, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1228,aldi, Finance Administrative Assistant,retail,"Chelmsford, England, England",4,3.0,3.0,2.0,1.0,5.0,268
+1229,aldi, Finance Administrative Assistant,printing,"Chelmsford, England, England",4,3.0,3.0,2.0,1.0,5.0,7
+1230,aldi, Store Assistant,retail,"Glasgow, Scotland, Scotland",4,1.0,2.0,2.0,3.0,3.0,268
+1231,aldi, Store Assistant,printing,"Glasgow, Scotland, Scotland",4,1.0,2.0,2.0,3.0,3.0,7
+1232,aldi, Aldi Store Assistant,retail,"Southend, Scotland, Scotland",4,3.0,4.0,5.0,4.0,4.0,268
+1233,aldi, Aldi Store Assistant,printing,"Southend, Scotland, Scotland",4,3.0,4.0,5.0,4.0,4.0,7
+1234,aldi, Deputy Manager,retail,"Caerphilly, Wales, Wales",4,1.0,4.0,5.0,4.0,4.0,268
+1235,aldi, Deputy Manager,printing,"Caerphilly, Wales, Wales",4,1.0,4.0,5.0,4.0,4.0,7
+1236,aldi, Manager,retail,"Swindon, Wiltshire, South West England, England, England",2,1.0,3.0,5.0,2.0,2.0,268
+1237,aldi, Manager,printing,"Swindon, Wiltshire, South West England, England, England",2,1.0,3.0,5.0,2.0,2.0,7
+1238,aldi, Deputy Manager,retail,"Leicester, England, England",3,2.0,2.0,3.0,3.0,3.0,268
+1239,aldi, Deputy Manager,printing,"Leicester, England, England",3,2.0,2.0,3.0,3.0,3.0,7
+1240,aldi, Store Assistant,retail,"Preston, North West England, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1241,aldi, Store Assistant,printing,"Preston, North West England, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1242,aldi, Aldi Store Assistant,retail,"Wolverhampton, England, England",5,3.0,4.0,4.0,3.0,5.0,268
+1243,aldi, Aldi Store Assistant,printing,"Wolverhampton, England, England",5,3.0,4.0,4.0,3.0,5.0,7
+1244,aldi, Assistant Manager,retail,"Gosport, England, England",4,1.0,3.0,3.0,4.0,4.0,268
+1245,aldi, Assistant Manager,printing,"Gosport, England, England",4,1.0,3.0,3.0,4.0,4.0,7
+1246,aldi, Customer Service,retail,"Hyde, England, England",4,2.0,3.0,3.0,4.0,5.0,268
+1247,aldi, Customer Service,printing,"Hyde, England, England",4,2.0,3.0,3.0,4.0,5.0,7
+1250,aldi, Sales Assistant,retail,"Glasgow, Scotland, Scotland",5,3.0,4.0,5.0,4.0,4.0,268
+1251,aldi, Sales Assistant,printing,"Glasgow, Scotland, Scotland",5,3.0,4.0,5.0,4.0,4.0,7
+1258,aldi, Unemployed,retail,"Norwich, England, England",1,1.0,2.0,2.0,1.0,2.0,268
+1259,aldi, Unemployed,printing,"Norwich, England, England",1,1.0,2.0,2.0,1.0,2.0,7
+1260,aldi, Product Owner,retail,"Tamworth, England, England",5,4.0,4.0,3.0,4.0,2.0,268
+1261,aldi, Product Owner,printing,"Tamworth, England, England",5,4.0,4.0,3.0,4.0,2.0,7
+1264,aldi, Store Assistant,retail,"Birmingham, England, England",4,4.0,4.0,5.0,4.0,4.0,268
+1265,aldi, Store Assistant,printing,"Birmingham, England, England",4,4.0,4.0,5.0,4.0,4.0,7
+1268,aldi, Deupty Manager,retail,"Stalybridge, England, England",4,1.0,3.0,3.0,4.0,3.0,268
+1269,aldi, Deupty Manager,printing,"Stalybridge, England, England",4,1.0,3.0,3.0,4.0,3.0,7
+1270,aldi, Deputy Store Manager,retail,"Camborne, England, England",5,3.0,4.0,4.0,4.0,5.0,268
+1271,aldi, Deputy Store Manager,printing,"Camborne, England, England",5,3.0,4.0,4.0,4.0,5.0,7
+1274,aldi, Area Manager,retail,"London, England, England",3,1.0,2.0,1.0,3.0,3.0,268
+1275,aldi, Area Manager,printing,"London, England, England",3,1.0,2.0,1.0,3.0,3.0,7
+1278,aldi, TILL OPERATOR,retail,"Reading, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1279,aldi, TILL OPERATOR,printing,"Reading, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1280,aldi, Area Manager,retail,"London, England, England",5,4.0,5.0,5.0,5.0,5.0,268
+1281,aldi, Area Manager,printing,"London, England, England",5,4.0,5.0,5.0,5.0,5.0,7
+1284,aldi, Shelf Stacker,retail,"Nottingham, England, England",4,3.0,4.0,3.0,4.0,3.0,268
+1285,aldi, Shelf Stacker,printing,"Nottingham, England, England",4,3.0,4.0,3.0,4.0,3.0,7
+1286,aldi, Assistant Store Manager,retail,"Hove, England, England",1,1.0,3.0,3.0,1.0,3.0,268
+1287,aldi, Assistant Store Manager,printing,"Hove, England, England",1,1.0,3.0,3.0,1.0,3.0,7
+1288,aldi, Customer Assistant,retail,"Bishops Stortford, England, England",4,2.0,4.0,5.0,5.0,4.0,268
+1289,aldi, Customer Assistant,printing,"Bishops Stortford, England, England",4,2.0,4.0,5.0,5.0,4.0,7
+1292,aldi, Assistant Store Manager,retail,"Portslade, England, England",1,1.0,1.0,1.0,1.0,5.0,268
+1293,aldi, Assistant Store Manager,printing,"Portslade, England, England",1,1.0,1.0,1.0,1.0,5.0,7
+1296,aldi, Store Assistant,retail,"Newbury, England, England",2,3.0,1.0,1.0,1.0,2.0,268
+1297,aldi, Store Assistant,printing,"Newbury, England, England",2,3.0,1.0,1.0,1.0,2.0,7
+1298,aldi, Anonymous Employee,retail,"London, England, England",3,4.0,2.0,2.0,2.0,2.0,268
+1299,aldi, Anonymous Employee,printing,"London, England, England",3,4.0,2.0,2.0,2.0,2.0,7
+1300,aldi, Area Manager,retail,"Chester, England, England",4,2.0,3.0,4.0,2.0,3.0,268
+1301,aldi, Area Manager,printing,"Chester, England, England",4,2.0,3.0,4.0,2.0,3.0,7
+1302,aldi, Store Assistant,retail,"Cheltenham, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1303,aldi, Store Assistant,printing,"Cheltenham, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1304,aldi, Store Associate,retail,"Bristol, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1305,aldi, Store Associate,printing,"Bristol, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1306,aldi, Trainee Area Manager,retail,"London, England, England",4,3.0,4.0,3.0,4.0,5.0,268
+1307,aldi, Trainee Area Manager,printing,"London, England, England",4,3.0,4.0,3.0,4.0,5.0,7
+1308,aldi, Field Monitoring Officer,retail,"Chester, England, England",5,1.0,5.0,5.0,1.0,5.0,268
+1309,aldi, Field Monitoring Officer,printing,"Chester, England, England",5,1.0,5.0,5.0,1.0,5.0,7
+1312,aldi, Sales Assistant,retail,"Grimbsy, England, England",3,2.0,1.0,3.0,4.0,3.0,268
+1313,aldi, Sales Assistant,printing,"Grimbsy, England, England",3,2.0,1.0,3.0,4.0,3.0,7
+1314,aldi, Store Assistant,retail,"Middleton, Greater Manchester, North West England, England, England",2,1.0,1.0,5.0,2.0,4.0,268
+1315,aldi, Store Assistant,printing,"Middleton, Greater Manchester, North West England, England, England",2,1.0,1.0,5.0,2.0,4.0,7
+1316,aldi, Deputy Manager,retail,"Blackburn, England, England",5,5.0,4.0,4.0,2.0,3.0,268
+1317,aldi, Deputy Manager,printing,"Blackburn, England, England",5,5.0,4.0,4.0,2.0,3.0,7
+1320,aldi, Manager,retail,"London, England, England",1,1.0,3.0,2.0,2.0,5.0,268
+1321,aldi, Manager,printing,"London, England, England",1,1.0,3.0,2.0,2.0,5.0,7
+1322,aldi, Customer Assistant,retail,"London, England, England",4,3.0,4.0,5.0,4.0,4.0,268
+1323,aldi, Customer Assistant,printing,"London, England, England",4,3.0,4.0,5.0,4.0,4.0,7
+1324,aldi, Deputy Manager,retail,"Newcastle upon Tyne, England, England",5,2.0,4.0,3.0,4.0,3.0,268
+1325,aldi, Deputy Manager,printing,"Newcastle upon Tyne, England, England",5,2.0,4.0,3.0,4.0,3.0,7
+1326,aldi, Customer Assistant,retail,"Hemel Hempstead, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1327,aldi, Customer Assistant,printing,"Hemel Hempstead, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1328,aldi, Manager,retail,"Leicester, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1329,aldi, Manager,printing,"Leicester, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1330,aldi, Trainee Openreach Engineer,retail,"Glasgow, Scotland, Scotland",3,1.0,3.0,2.0,3.0,1.0,268
+1331,aldi, Trainee Openreach Engineer,printing,"Glasgow, Scotland, Scotland",3,1.0,3.0,2.0,3.0,1.0,7
+1332,aldi, Deputy Manager,retail,"Birmingham, England, England",3,1.0,2.0,5.0,4.0,3.0,268
+1333,aldi, Deputy Manager,printing,"Birmingham, England, England",3,1.0,2.0,5.0,4.0,3.0,7
+1334,aldi, Deputy Store Manager,retail,"London, England, England",5,3.0,5.0,5.0,5.0,5.0,268
+1335,aldi, Deputy Store Manager,printing,"London, England, England",5,3.0,5.0,5.0,5.0,5.0,7
+1342,aldi, Store Assistant,retail,"Chester, England, England",4,5.0,4.0,5.0,4.0,3.0,268
+1343,aldi, Store Assistant,printing,"Chester, England, England",4,5.0,4.0,5.0,4.0,3.0,7
+1344,aldi, Aldi Shift Manager,retail,"Manchester, England, England",3,3.0,1.0,2.0,3.0,3.0,268
+1345,aldi, Aldi Shift Manager,printing,"Manchester, England, England",3,3.0,1.0,2.0,3.0,3.0,7
+1348,aldi, Store Assistant,retail,"Swindon, Wiltshire, South West England, England, England",4,3.0,4.0,3.0,4.0,3.0,268
+1349,aldi, Store Assistant,printing,"Swindon, Wiltshire, South West England, England, England",4,3.0,4.0,3.0,4.0,3.0,7
+1350,aldi, Warehouse Selector,retail,"Neston, North West England, England, England",5,3.0,4.0,4.0,2.0,4.0,268
+1351,aldi, Warehouse Selector,printing,"Neston, North West England, England, England",5,3.0,4.0,4.0,2.0,4.0,7
+1352,aldi, Customer Service,retail,"Warrington, North West England, England, England",5,2.0,3.0,3.0,2.0,2.0,268
+1353,aldi, Customer Service,printing,"Warrington, North West England, England, England",5,2.0,3.0,3.0,2.0,2.0,7
+1354,aldi, Shop Assistant,retail,"Coventry, England, England",2,2.0,3.0,3.0,3.0,3.0,268
+1355,aldi, Shop Assistant,printing,"Coventry, England, England",2,2.0,3.0,3.0,3.0,3.0,7
+1358,aldi, Deputy Manager,retail,"Neston, North West England, England, England",5,5.0,5.0,5.0,2.0,3.0,268
+1359,aldi, Deputy Manager,printing,"Neston, North West England, England, England",5,5.0,5.0,5.0,2.0,3.0,7
+1360,aldi, Deputy Manager,retail,"Derby, England, England",5,3.0,5.0,5.0,5.0,5.0,268
+1361,aldi, Deputy Manager,printing,"Derby, England, England",5,3.0,5.0,5.0,5.0,5.0,7
+1364,aldi, Industrial Placement Student,retail,"Atherstone, England, England",2,1.0,1.0,1.0,3.0,3.0,268
+1365,aldi, Industrial Placement Student,printing,"Atherstone, England, England",2,1.0,1.0,1.0,3.0,3.0,7
+1366,aldi, Retail Store Assistant,retail,"Neston, North West England, England, England",2,2.0,3.0,3.0,2.0,4.0,268
+1367,aldi, Retail Store Assistant,printing,"Neston, North West England, England, England",2,2.0,3.0,3.0,2.0,4.0,7
+1368,aldi, Store Associate,retail,"Trowbridge, England, England",4,2.0,3.0,4.0,3.0,2.0,268
+1369,aldi, Store Associate,printing,"Trowbridge, England, England",4,2.0,3.0,4.0,3.0,2.0,7
+1372,aldi, Store Assistant,retail,"Newcastle upon Tyne, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1373,aldi, Store Assistant,printing,"Newcastle upon Tyne, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1374,aldi, Shop Assistant,retail,"Llandudno, Wales, Wales",5,5.0,4.0,5.0,5.0,4.0,268
+1375,aldi, Shop Assistant,printing,"Llandudno, Wales, Wales",5,5.0,4.0,5.0,5.0,4.0,7
+1376,aldi, Store Assistant,retail,"Crewe, England, England",3,2.0,3.0,3.0,3.0,4.0,268
+1377,aldi, Store Assistant,printing,"Crewe, England, England",3,2.0,3.0,3.0,3.0,4.0,7
+1378,aldi, Deputy Manager,retail,"Glasgow, Scotland, Scotland",4,3.0,4.0,4.0,4.0,4.0,268
+1379,aldi, Deputy Manager,printing,"Glasgow, Scotland, Scotland",4,3.0,4.0,4.0,4.0,4.0,7
+1382,aldi, Retail Sales Assistant,retail,"Warrington, North West England, England, England",5,5.0,5.0,5.0,4.0,5.0,268
+1383,aldi, Retail Sales Assistant,printing,"Warrington, North West England, England, England",5,5.0,5.0,5.0,4.0,5.0,7
+1384,aldi, Customer Serice,retail,"Birmingham, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1385,aldi, Customer Serice,printing,"Birmingham, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1386,aldi, Store Associate,retail,"Hastings, England, England",3,2.0,2.0,2.0,3.0,2.0,268
+1387,aldi, Store Associate,printing,"Hastings, England, England",3,2.0,2.0,2.0,3.0,2.0,7
+1388,aldi, Aldi Store Assistant,retail,"Coleshill, West Midlands, England, England",4,2.0,3.0,5.0,3.0,4.0,268
+1389,aldi, Aldi Store Assistant,printing,"Coleshill, West Midlands, England, England",4,2.0,3.0,5.0,3.0,4.0,7
+1390,aldi, HGV DriverClass1,retail,"Neston, North West England, England, England",5,5.0,5.0,5.0,3.0,4.0,268
+1391,aldi, HGV DriverClass1,printing,"Neston, North West England, England, England",5,5.0,5.0,5.0,3.0,4.0,7
+1392,aldi, Aldi Associate,retail,"Atherstone, England, England",3,3.0,2.0,4.0,2.0,1.0,268
+1393,aldi, Aldi Associate,printing,"Atherstone, England, England",3,3.0,2.0,4.0,2.0,1.0,7
+1398,aldi, Warehouse Section Leader,retail,"Bolton, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1399,aldi, Warehouse Section Leader,printing,"Bolton, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1400,aldi, Deputy Manager,retail,"Bath, England, England",5,2.0,3.0,3.0,4.0,4.0,268
+1401,aldi, Deputy Manager,printing,"Bath, England, England",5,2.0,3.0,3.0,4.0,4.0,7
+1404,aldi, Store Assistant,retail,"Hunslet, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1405,aldi, Store Assistant,printing,"Hunslet, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1408,aldi, Store Assistant,retail,"London, England, England",3,1.0,4.0,4.0,5.0,3.0,268
+1409,aldi, Store Assistant,printing,"London, England, England",3,1.0,4.0,4.0,5.0,3.0,7
+1416,aldi, Deputy Manager,retail,"Manchester, England, England",3,2.0,3.0,4.0,2.0,3.0,268
+1417,aldi, Deputy Manager,printing,"Manchester, England, England",3,2.0,3.0,4.0,2.0,3.0,7
+1418,aldi, Store Manager,retail,"Sheffield, England, England",5,3.0,5.0,5.0,5.0,5.0,268
+1419,aldi, Store Manager,printing,"Sheffield, England, England",5,3.0,5.0,5.0,5.0,5.0,7
+1420,aldi, Warehouse Operative/Picker,retail,"Chelmsford, England, England",3,2.0,3.0,3.0,3.0,3.0,268
+1421,aldi, Warehouse Operative/Picker,printing,"Chelmsford, England, England",3,2.0,3.0,3.0,3.0,3.0,7
+1422,aldi, Shop Assistant,retail,"Sheffield, England, England",4,2.0,5.0,5.0,4.0,3.0,268
+1423,aldi, Shop Assistant,printing,"Sheffield, England, England",4,2.0,5.0,5.0,4.0,3.0,7
+1426,aldi, Aldi Store Manager,retail,"Perth, Scotland, Scotland",5,2.0,3.0,5.0,4.0,4.0,268
+1427,aldi, Aldi Store Manager,printing,"Perth, Scotland, Scotland",5,2.0,3.0,5.0,4.0,4.0,7
+1430,aldi, Hgv Driver,retail,"Tamworth, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1431,aldi, Hgv Driver,printing,"Tamworth, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1432,aldi, Deputy Store Manager,retail,"Crieff, Scotland, Scotland",5,4.0,5.0,5.0,5.0,4.0,268
+1433,aldi, Deputy Store Manager,printing,"Crieff, Scotland, Scotland",5,4.0,5.0,5.0,5.0,4.0,7
+1434,aldi, Senior DSM,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1435,aldi, Senior DSM,printing,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1436,aldi, Assistant Store Manager,retail,"London, England, England",4,4.0,4.0,5.0,4.0,5.0,268
+1437,aldi, Assistant Store Manager,printing,"London, England, England",4,4.0,4.0,5.0,4.0,5.0,7
+1438,aldi, Assistant Manager,retail,"Winchester, England, England",2,1.0,3.0,3.0,4.0,1.0,268
+1439,aldi, Assistant Manager,printing,"Winchester, England, England",2,1.0,3.0,3.0,4.0,1.0,7
+1440,aldi, Store Manager,retail,"Birmingham, England, England",1,1.0,1.0,2.0,3.0,3.0,268
+1441,aldi, Store Manager,printing,"Birmingham, England, England",1,1.0,1.0,2.0,3.0,3.0,7
+1442,aldi, Area Manager,retail,"Neston, North West England, England, England",3,1.0,3.0,3.0,5.0,5.0,268
+1443,aldi, Area Manager,printing,"Neston, North West England, England, England",3,1.0,3.0,3.0,5.0,5.0,7
+1444,aldi, Deputy,retail,"Bolton, England, England",5,3.0,5.0,5.0,5.0,5.0,268
+1445,aldi, Deputy,printing,"Bolton, England, England",5,3.0,5.0,5.0,5.0,5.0,7
+1450,aldi, Store Assistant,retail,"Irvine, Scotland, Scotland",5,4.0,4.0,4.0,2.0,4.0,268
+1451,aldi, Store Assistant,printing,"Irvine, Scotland, Scotland",5,4.0,4.0,4.0,2.0,4.0,7
+1452,aldi, Store Manager,retail,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1453,aldi, Store Manager,printing,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1454,aldi, Store Assistant,retail,"Derby, England, England",5,4.0,5.0,5.0,5.0,5.0,268
+1455,aldi, Store Assistant,printing,"Derby, England, England",5,4.0,5.0,5.0,5.0,5.0,7
+1456,aldi, Aldi Manager,retail,"Nottingham, England, England",5,4.0,5.0,5.0,5.0,5.0,268
+1457,aldi, Aldi Manager,printing,"Nottingham, England, England",5,4.0,5.0,5.0,5.0,5.0,7
+1460,aldi, Deputy Manager,retail,"London, England, England",1,1.0,2.0,5.0,4.0,3.0,268
+1461,aldi, Deputy Manager,printing,"London, England, England",1,1.0,2.0,5.0,4.0,3.0,7
+1462,aldi, Store Assistant,retail,"Cardiff, Wales, Wales",1,1.0,1.0,1.0,1.0,1.0,268
+1463,aldi, Store Assistant,printing,"Cardiff, Wales, Wales",1,1.0,1.0,1.0,1.0,1.0,7
+1464,aldi, Store Assistant,retail,"Manchester, England, England",4,5.0,3.0,4.0,4.0,2.0,268
+1465,aldi, Store Assistant,printing,"Manchester, England, England",4,5.0,3.0,4.0,4.0,2.0,7
+1466,aldi, Assistant Store Manager,retail,"Birmingham, England, England",4,2.0,2.0,2.0,3.0,3.0,268
+1467,aldi, Assistant Store Manager,printing,"Birmingham, England, England",4,2.0,2.0,2.0,3.0,3.0,7
+1468,aldi, Deputy Manager,retail,"Derby, England, England",4,3.0,4.0,3.0,4.0,4.0,268
+1469,aldi, Deputy Manager,printing,"Derby, England, England",4,3.0,4.0,3.0,4.0,4.0,7
+1470,aldi, Personal Banker,retail,"Wigan, England, England",3,3.0,3.0,3.0,2.0,2.0,268
+1471,aldi, Personal Banker,printing,"Wigan, England, England",3,3.0,3.0,3.0,2.0,2.0,7
+1472,aldi, Store Assistant,retail,"Gateshead, England, England",4,3.0,3.0,4.0,3.0,3.0,268
+1473,aldi, Store Assistant,printing,"Gateshead, England, England",4,3.0,3.0,4.0,3.0,3.0,7
+1474,aldi, Area Manager,retail,"Bury, North West England, England, England",4,4.0,4.0,4.0,4.0,4.0,268
+1475,aldi, Area Manager,printing,"Bury, North West England, England, England",4,4.0,4.0,4.0,4.0,4.0,7
+1476,aldi, HGV DriverClass1,retail,"Bathgate, Scotland, Scotland",5,3.0,4.0,4.0,1.0,4.0,268
+1477,aldi, HGV DriverClass1,printing,"Bathgate, Scotland, Scotland",5,3.0,4.0,4.0,1.0,4.0,7
+1480,aldi, Store Assistant,retail,"Peterborough, England, England",4,2.0,5.0,4.0,3.0,4.0,268
+1481,aldi, Store Assistant,printing,"Peterborough, England, England",4,2.0,5.0,4.0,3.0,4.0,7
+1482,aldi, Customer Advisor,retail,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1483,aldi, Customer Advisor,printing,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1484,aldi, Retail Store Assistant,retail,"Milngavie, Scotland, Scotland",4,2.0,4.0,5.0,3.0,3.0,268
+1485,aldi, Retail Store Assistant,printing,"Milngavie, Scotland, Scotland",4,2.0,4.0,5.0,3.0,3.0,7
+1486,aldi, Store Assistant,retail,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1487,aldi, Store Assistant,printing,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1488,aldi, Retail Store Manager,retail,"Newcastle upon Tyne, England, England",2,1.0,1.0,2.0,1.0,3.0,268
+1489,aldi, Retail Store Manager,printing,"Newcastle upon Tyne, England, England",2,1.0,1.0,2.0,1.0,3.0,7
+1490,aldi, Assistant Manager,retail,"Cardiff, Wales, Wales",5,4.0,4.0,5.0,5.0,5.0,268
+1491,aldi, Assistant Manager,printing,"Cardiff, Wales, Wales",5,4.0,4.0,5.0,5.0,5.0,7
+1492,aldi, Deputy Manager,retail,"Maidstone, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1493,aldi, Deputy Manager,printing,"Maidstone, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1494,aldi, Store Assistant,retail,"Dagenham, England, England",5,5.0,4.0,3.0,5.0,4.0,268
+1495,aldi, Store Assistant,printing,"Dagenham, England, England",5,5.0,4.0,3.0,5.0,4.0,7
+1496,aldi, Store Manager,retail,"Blackpool, England, England",3,1.0,3.0,4.0,3.0,4.0,268
+1497,aldi, Store Manager,printing,"Blackpool, England, England",3,1.0,3.0,4.0,3.0,4.0,7
+1498,aldi, Buying Assistant,retail,"Coventry, England, England",4,5.0,4.0,4.0,2.0,5.0,268
+1499,aldi, Buying Assistant,printing,"Coventry, England, England",4,5.0,4.0,4.0,2.0,5.0,7
+1500,aldi, Customer Assistant,retail,"Bedford, England, England",4,3.0,4.0,2.0,3.0,4.0,268
+1501,aldi, Customer Assistant,printing,"Bedford, England, England",4,3.0,4.0,2.0,3.0,4.0,7
+1504,aldi, Deputy Store Manager,retail,"Gillingham, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1505,aldi, Deputy Store Manager,printing,"Gillingham, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1506,aldi, Manager,retail,"Leeds, England, England",1,1.0,1.0,1.0,3.0,5.0,268
+1507,aldi, Manager,printing,"Leeds, England, England",1,1.0,1.0,1.0,3.0,5.0,7
+1508,aldi, Store Assistant,retail,"Nottingham, England, England",5,2.0,5.0,5.0,3.0,3.0,268
+1509,aldi, Store Assistant,printing,"Nottingham, England, England",5,2.0,5.0,5.0,3.0,3.0,7
+1512,aldi, Night Selector,retail,"Neston, South West England, England, England",1,3.0,3.0,3.0,1.0,3.0,268
+1513,aldi, Night Selector,printing,"Neston, South West England, England, England",1,3.0,3.0,3.0,1.0,3.0,7
+1514,aldi, Store Manager,retail,"Newquay, England, England",5,2.0,3.0,1.0,1.0,3.0,268
+1515,aldi, Store Manager,printing,"Newquay, England, England",5,2.0,3.0,1.0,1.0,3.0,7
+1516,aldi, Aldi Store Assistant,retail,"Nottingham, England, England",4,2.0,3.0,3.0,4.0,3.0,268
+1517,aldi, Aldi Store Assistant,printing,"Nottingham, England, England",4,2.0,3.0,3.0,4.0,3.0,7
+1520,aldi, Store Manager,retail,"Newcastle upon Tyne, England, England",1,1.0,1.0,2.0,4.0,1.0,268
+1521,aldi, Store Manager,printing,"Newcastle upon Tyne, England, England",1,1.0,1.0,2.0,4.0,1.0,7
+1522,aldi, Store Assistant,retail,"York, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1523,aldi, Store Assistant,printing,"York, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1524,aldi, Store Assistant,retail,"Polmont, Scotland, Scotland",4,1.0,4.0,4.0,3.0,5.0,268
+1525,aldi, Store Assistant,printing,"Polmont, Scotland, Scotland",4,1.0,4.0,4.0,3.0,5.0,7
+1526,aldi, Store Assistant,retail,"Stoke-on-Trent, England, England",4,2.0,5.0,3.0,4.0,5.0,268
+1527,aldi, Store Assistant,printing,"Stoke-on-Trent, England, England",4,2.0,5.0,3.0,4.0,5.0,7
+1530,aldi, Order Picker,retail,Dubai,1,1.0,1.0,1.0,1.0,1.0,268
+1531,aldi, Order Picker,printing,Dubai,1,1.0,1.0,1.0,1.0,1.0,7
+1532,aldi, Retail Sales Assistant,retail,"Dundee, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,268
+1533,aldi, Retail Sales Assistant,printing,"Dundee, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,7
+1534,aldi, Store Manager,retail,"Glasgow, Scotland, Scotland",3,2.0,3.0,4.0,2.0,4.0,268
+1535,aldi, Store Manager,printing,"Glasgow, Scotland, Scotland",3,2.0,3.0,4.0,2.0,4.0,7
+1536,aldi, Store Manager,retail,"Bathgate, Scotland, Scotland",1,1.0,1.0,1.0,1.0,1.0,268
+1537,aldi, Store Manager,printing,"Bathgate, Scotland, Scotland",1,1.0,1.0,1.0,1.0,1.0,7
+1540,aldi, Store Leader,retail,"London, England, England",4,3.0,4.0,4.0,4.0,3.0,268
+1541,aldi, Store Leader,printing,"London, England, England",4,3.0,4.0,4.0,4.0,3.0,7
+1546,aldi, Customer Assistant,retail,"High Wycombe, England, England",4,4.0,5.0,5.0,5.0,5.0,268
+1547,aldi, Customer Assistant,printing,"High Wycombe, England, England",4,4.0,5.0,5.0,5.0,5.0,7
+1550,aldi, Deputy Manager,retail,"Bolton, England, England",3,2.0,3.0,3.0,3.0,3.0,268
+1551,aldi, Deputy Manager,printing,"Bolton, England, England",3,2.0,3.0,3.0,3.0,3.0,7
+1552,aldi, Retail Store Assistant,retail,"Leicester, England, England",4,2.0,4.0,4.0,4.0,4.0,268
+1553,aldi, Retail Store Assistant,printing,"Leicester, England, England",4,2.0,4.0,4.0,4.0,4.0,7
+1554,aldi, Sales Assistant,retail,"York, England, England",4,5.0,4.0,4.0,2.0,4.0,268
+1555,aldi, Sales Assistant,printing,"York, England, England",4,5.0,4.0,4.0,2.0,4.0,7
+1558,aldi, Customer Assistant,retail,"London, England, England",4,3.0,4.0,5.0,4.0,5.0,268
+1559,aldi, Customer Assistant,printing,"London, England, England",4,3.0,4.0,5.0,4.0,5.0,7
+1562,aldi, Machine Operator,retail,"London, England, England",5,5.0,4.0,5.0,5.0,5.0,268
+1563,aldi, Machine Operator,printing,"London, England, England",5,5.0,4.0,5.0,5.0,5.0,7
+1564,aldi, Store Assistant,retail,"Aberdeen, Scotland, Scotland",3,3.0,3.0,4.0,3.0,3.0,268
+1565,aldi, Store Assistant,printing,"Aberdeen, Scotland, Scotland",3,3.0,3.0,4.0,3.0,3.0,7
+1566,aldi, Store Assistant,retail,"Horwich, England, England",4,4.0,5.0,5.0,5.0,5.0,268
+1567,aldi, Store Assistant,printing,"Horwich, England, England",4,4.0,5.0,5.0,5.0,5.0,7
+1568,aldi, Store Assistant,retail,"Blackburn, England, England",4,3.0,5.0,5.0,5.0,5.0,268
+1569,aldi, Store Assistant,printing,"Blackburn, England, England",4,3.0,5.0,5.0,5.0,5.0,7
+1570,aldi, Anonymous Employee,retail,"Edinburgh, Scotland, Scotland",2,3.0,3.0,3.0,2.0,2.0,268
+1571,aldi, Anonymous Employee,printing,"Edinburgh, Scotland, Scotland",2,3.0,3.0,3.0,2.0,2.0,7
+1572,aldi, Store Assistant,retail,"Oxford, England, England",2,1.0,1.0,1.0,1.0,1.0,268
+1573,aldi, Store Assistant,printing,"Oxford, England, England",2,1.0,1.0,1.0,1.0,1.0,7
+1576,aldi, Store Assistant,retail,"Liverpool, England, England",4,1.0,1.0,5.0,3.0,2.0,268
+1577,aldi, Store Assistant,printing,"Liverpool, England, England",4,1.0,1.0,5.0,3.0,2.0,7
+1578,aldi, Store Assistant,retail,"Cheltenham, England, England",3,5.0,4.0,3.0,3.0,5.0,268
+1579,aldi, Store Assistant,printing,"Cheltenham, England, England",3,5.0,4.0,3.0,3.0,5.0,7
+1580,aldi, Deputy Manager,retail,"Stoke-on-Trent, England, England",5,4.0,5.0,5.0,4.0,4.0,268
+1581,aldi, Deputy Manager,printing,"Stoke-on-Trent, England, England",5,4.0,5.0,5.0,4.0,4.0,7
+1582,aldi, Graduate Area Manager,retail,"Birmingham, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1583,aldi, Graduate Area Manager,printing,"Birmingham, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1586,aldi, Aldi Area Manager Graduate Scheme,retail,"London, England, England",3,2.0,2.0,2.0,4.0,5.0,268
+1587,aldi, Aldi Area Manager Graduate Scheme,printing,"London, England, England",3,2.0,2.0,2.0,4.0,5.0,7
+1590,aldi, Stock Controller,retail,"Bolton, England, England",5,5.0,3.0,3.0,3.0,3.0,268
+1591,aldi, Stock Controller,printing,"Bolton, England, England",5,5.0,3.0,3.0,3.0,3.0,7
+1592,aldi, Anonymous Employee,retail,"Birmingham, England, England",4,3.0,4.0,5.0,3.0,4.0,268
+1593,aldi, Anonymous Employee,printing,"Birmingham, England, England",4,3.0,4.0,5.0,3.0,4.0,7
+1594,aldi, Corporate Buying Assistant,retail,"Birmingham, England, England",2,2.0,3.0,3.0,2.0,3.0,268
+1595,aldi, Corporate Buying Assistant,printing,"Birmingham, England, England",2,2.0,3.0,3.0,2.0,3.0,7
+1596,aldi, Deputy Manager,retail,"Leek, England, England",3,2.0,3.0,3.0,5.0,5.0,268
+1597,aldi, Deputy Manager,printing,"Leek, England, England",3,2.0,3.0,3.0,5.0,5.0,7
+1598,aldi, Store Manager,retail,"Birmingham, England, England",3,3.0,3.0,1.0,2.0,5.0,268
+1599,aldi, Store Manager,printing,"Birmingham, England, England",3,3.0,3.0,1.0,2.0,5.0,7
+1600,aldi, Sales Associate,retail,"Prudhoe, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1601,aldi, Sales Associate,printing,"Prudhoe, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1602,aldi, Student,retail,"Edinburgh, Scotland, Scotland",5,5.0,5.0,5.0,3.0,2.0,268
+1603,aldi, Student,printing,"Edinburgh, Scotland, Scotland",5,5.0,5.0,5.0,3.0,2.0,7
+1604,aldi, Deputy Manager,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1605,aldi, Deputy Manager,printing,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1606,aldi, Store Assistant,retail,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,268
+1607,aldi, Store Assistant,printing,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,7
+1608,aldi, Store Assistant,retail,"Southend-on-Sea, England, England",2,1.0,1.0,1.0,3.0,2.0,268
+1609,aldi, Store Assistant,printing,"Southend-on-Sea, England, England",2,1.0,1.0,1.0,3.0,2.0,7
+1610,aldi, Store Assistant,retail,"Bolton, England, England",3,1.0,2.0,4.0,2.0,2.0,268
+1611,aldi, Store Assistant,printing,"Bolton, England, England",3,1.0,2.0,4.0,2.0,2.0,7
+1614,aldi, Anonymous Employee,retail,"Atherstone, England, England",1,2.0,1.0,1.0,1.0,2.0,268
+1615,aldi, Anonymous Employee,printing,"Atherstone, England, England",1,2.0,1.0,1.0,1.0,2.0,7
+1616,aldi, Caretaker,retail,"Stratford-upon-Avon, England, England",3,5.0,3.0,3.0,5.0,5.0,268
+1617,aldi, Caretaker,printing,"Stratford-upon-Avon, England, England",3,5.0,3.0,3.0,5.0,5.0,7
+1618,aldi, Area Manager,retail,"Cardiff, Wales, Wales",5,3.0,5.0,5.0,5.0,5.0,268
+1619,aldi, Area Manager,printing,"Cardiff, Wales, Wales",5,3.0,5.0,5.0,5.0,5.0,7
+1620,aldi, Finance Associate,retail,"Atherstone, England, England",3,2.0,3.0,3.0,1.0,4.0,268
+1621,aldi, Finance Associate,printing,"Atherstone, England, England",3,2.0,3.0,3.0,1.0,4.0,7
+1622,aldi, Manager,retail,"Aberdeen, Scotland, Scotland",2,1.0,2.0,1.0,1.0,4.0,268
+1623,aldi, Manager,printing,"Aberdeen, Scotland, Scotland",2,1.0,2.0,1.0,1.0,4.0,7
+1624,aldi, Marketing Assistant,retail,"London, England, England",5,3.0,2.0,1.0,3.0,2.0,268
+1625,aldi, Marketing Assistant,printing,"London, England, England",5,3.0,2.0,1.0,3.0,2.0,7
+1628,aldi, Aldi Assistant Manager,retail,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1629,aldi, Aldi Assistant Manager,printing,"London, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1630,aldi, Store Assistant,retail,"Montréal, QC",2,4.0,2.0,4.0,1.0,1.0,268
+1631,aldi, Store Assistant,printing,"Montréal, QC",2,4.0,2.0,4.0,1.0,1.0,7
+1632,aldi, Store Assistant,retail,"Québec, QC",3,3.0,3.0,4.0,4.0,3.0,268
+1633,aldi, Store Assistant,printing,"Québec, QC",3,3.0,3.0,4.0,4.0,3.0,7
+1636,aldi, Assistant Manager,retail,"Derby, England, England",5,4.0,5.0,5.0,5.0,5.0,268
+1637,aldi, Assistant Manager,printing,"Derby, England, England",5,4.0,5.0,5.0,5.0,5.0,7
+1640,aldi, Reatail Assistant,retail,"Manchester, England, England",3,3.0,4.0,4.0,3.0,5.0,268
+1641,aldi, Reatail Assistant,printing,"Manchester, England, England",3,3.0,4.0,4.0,3.0,5.0,7
+1644,aldi, ASM,retail,"Exeter, England, England",4,2.0,3.0,5.0,5.0,5.0,268
+1645,aldi, ASM,printing,"Exeter, England, England",4,2.0,3.0,5.0,5.0,5.0,7
+1646,aldi, Deputy Manager,retail,"Neston, North West England, England, England",5,4.0,5.0,5.0,2.0,5.0,268
+1647,aldi, Deputy Manager,printing,"Neston, North West England, England, England",5,4.0,5.0,5.0,2.0,5.0,7
+1648,aldi, Store Assistant,retail,"Carlisle, England, England",3,4.0,3.0,4.0,3.0,4.0,268
+1649,aldi, Store Assistant,printing,"Carlisle, England, England",3,4.0,3.0,4.0,3.0,4.0,7
+1650,aldi, Store Assistant,retail,"Derby, England, England",4,1.0,1.0,1.0,1.0,1.0,268
+1651,aldi, Store Assistant,printing,"Derby, England, England",4,1.0,1.0,1.0,1.0,1.0,7
+1652,aldi, Store Assistant,retail,"Northampton, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1653,aldi, Store Assistant,printing,"Northampton, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1654,aldi, Surveyor,retail,"Atherstone, England, England",3,1.0,2.0,2.0,3.0,3.0,268
+1655,aldi, Surveyor,printing,"Atherstone, England, England",3,1.0,2.0,2.0,3.0,3.0,7
+1660,aldi, Deputy Manager,retail,"Wrexham, Wales, Wales",3,2.0,3.0,5.0,5.0,4.0,268
+1661,aldi, Deputy Manager,printing,"Wrexham, Wales, Wales",3,2.0,3.0,5.0,5.0,4.0,7
+1662,aldi, Aldi Store Assistant,retail,"Leicester, England, England",5,3.0,4.0,5.0,5.0,4.0,268
+1663,aldi, Aldi Store Assistant,printing,"Leicester, England, England",5,3.0,4.0,5.0,5.0,4.0,7
+1664,aldi, Graduate Area Manager,retail,"London, England, England",1,1.0,1.0,2.0,3.0,5.0,268
+1665,aldi, Graduate Area Manager,printing,"London, England, England",1,1.0,1.0,2.0,3.0,5.0,7
+1666,aldi, Logistic Assistant,retail,"Southend-on-Sea, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1667,aldi, Logistic Assistant,printing,"Southend-on-Sea, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1668,aldi, Store Assistant,retail,"Sawley, East Midlands, England, England",4,5.0,5.0,5.0,2.0,5.0,268
+1669,aldi, Store Assistant,printing,"Sawley, East Midlands, England, England",4,5.0,5.0,5.0,2.0,5.0,7
+1670,aldi, Deputy Store Manager,retail,"Northampton, England, England",5,2.0,4.0,5.0,4.0,3.0,268
+1671,aldi, Deputy Store Manager,printing,"Northampton, England, England",5,2.0,4.0,5.0,4.0,3.0,7
+1672,aldi, Store Assistant,retail,"Manchester, England, England",2,2.0,1.0,1.0,2.0,1.0,268
+1673,aldi, Store Assistant,printing,"Manchester, England, England",2,2.0,1.0,1.0,2.0,1.0,7
+1674,aldi, Customer Assistant,retail,"Nashville, TN",5,4.0,5.0,5.0,5.0,5.0,268
+1675,aldi, Customer Assistant,printing,"Nashville, TN",5,4.0,5.0,5.0,5.0,5.0,7
+1676,aldi, Store Assistant,retail,"Hillside, IL",3,3.0,3.0,3.0,4.0,4.0,268
+1677,aldi, Store Assistant,printing,"Hillside, IL",3,3.0,3.0,3.0,4.0,4.0,7
+1680,aldi, Store Assistant,retail,"Wirral, England, England",4,4.0,4.0,5.0,3.0,3.0,268
+1681,aldi, Store Assistant,printing,"Wirral, England, England",4,4.0,4.0,5.0,3.0,3.0,7
+1682,aldi, Store Manager,retail,"Canterbury, England, England",5,3.0,5.0,3.0,3.0,5.0,268
+1683,aldi, Store Manager,printing,"Canterbury, England, England",5,3.0,5.0,3.0,3.0,5.0,7
+1688,aldi, Deputy Store Manager,retail,"Swansea, Wales, Wales",1,1.0,1.0,3.0,1.0,1.0,268
+1689,aldi, Deputy Store Manager,printing,"Swansea, Wales, Wales",1,1.0,1.0,3.0,1.0,1.0,7
+1690,aldi, Warehouse Worker,retail,"Livingston, Scotland, Scotland",4,3.0,3.0,2.0,3.0,4.0,268
+1691,aldi, Warehouse Worker,printing,"Livingston, Scotland, Scotland",4,3.0,3.0,2.0,3.0,4.0,7
+1694,aldi, Store Assistant,retail,"Glasgow, Scotland, Scotland",3,1.0,3.0,4.0,2.0,1.0,268
+1695,aldi, Store Assistant,printing,"Glasgow, Scotland, Scotland",3,1.0,3.0,4.0,2.0,1.0,7
+1696,aldi, Customer Service Representative,retail,"Leeds, England, England",3,3.0,4.0,4.0,4.0,3.0,268
+1697,aldi, Customer Service Representative,printing,"Leeds, England, England",3,3.0,4.0,4.0,4.0,3.0,7
+1700,aldi, Retail Store Assistant,retail,"Ashby, England, England",4,2.0,3.0,5.0,5.0,4.0,268
+1701,aldi, Retail Store Assistant,printing,"Ashby, England, England",4,2.0,3.0,5.0,5.0,4.0,7
+1702,aldi, Till Assistant,retail,"London, England, England",3,3.0,3.0,3.0,3.0,4.0,268
+1703,aldi, Till Assistant,printing,"London, England, England",3,3.0,3.0,3.0,3.0,4.0,7
+1704,aldi, Sales Associate,retail,"Birmingham, England, England",3,3.0,3.0,5.0,3.0,2.0,268
+1705,aldi, Sales Associate,printing,"Birmingham, England, England",3,3.0,3.0,5.0,3.0,2.0,7
+1710,aldi, Store Assistant,retail,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1711,aldi, Store Assistant,printing,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1712,aldi, Sales Associate,retail,"Milton Keynes, England, England",1,1.0,2.0,3.0,1.0,2.0,268
+1713,aldi, Sales Associate,printing,"Milton Keynes, England, England",1,1.0,2.0,3.0,1.0,2.0,7
+1716,aldi, Customer Assistant,retail,"London, England, England",1,1.0,2.0,4.0,2.0,2.0,268
+1717,aldi, Customer Assistant,printing,"London, England, England",1,1.0,2.0,4.0,2.0,2.0,7
+1728,aldi, Store Assistant,retail,"Aylesbury, England, England",4,2.0,5.0,4.0,2.0,2.0,268
+1729,aldi, Store Assistant,printing,"Aylesbury, England, England",4,2.0,5.0,4.0,2.0,2.0,7
+1730,aldi, Deputy Store Manager,retail,"Coventry, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1731,aldi, Deputy Store Manager,printing,"Coventry, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1732,aldi, Sales Assistant,retail,"Scunthorpe, England, England",5,3.0,5.0,5.0,4.0,4.0,268
+1733,aldi, Sales Assistant,printing,"Scunthorpe, England, England",5,3.0,5.0,5.0,4.0,4.0,7
+1738,aldi, Sales,retail,"Maidstone, England, England",3,3.0,3.0,3.0,3.0,3.0,268
+1739,aldi, Sales,printing,"Maidstone, England, England",3,3.0,3.0,3.0,3.0,3.0,7
+1740,aldi, Sales Assistant,retail,"Washington, North East England, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1741,aldi, Sales Assistant,printing,"Washington, North East England, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1742,aldi, Store Assistant,retail,"Stoke-on-Trent, England, England",1,1.0,1.0,2.0,1.0,2.0,268
+1743,aldi, Store Assistant,printing,"Stoke-on-Trent, England, England",1,1.0,1.0,2.0,1.0,2.0,7
+1744,aldi, Assistant Store Manager,retail,"Solihull, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1745,aldi, Assistant Store Manager,printing,"Solihull, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1748,aldi, Customer Store Assistant,retail,"Plymouth, England, England",2,2.0,2.0,5.0,1.0,1.0,268
+1749,aldi, Customer Store Assistant,printing,"Plymouth, England, England",2,2.0,2.0,5.0,1.0,1.0,7
+1750,aldi, Aldi Store Assistant,retail,"Congleton, England, England",4,3.0,4.0,4.0,4.0,4.0,268
+1751,aldi, Aldi Store Assistant,printing,"Congleton, England, England",4,3.0,4.0,4.0,4.0,4.0,7
+1752,aldi, Store Assistant,retail,"Chorley, England, England",3,2.0,3.0,3.0,2.0,3.0,268
+1753,aldi, Store Assistant,printing,"Chorley, England, England",3,2.0,3.0,3.0,2.0,3.0,7
+1754,aldi, Store Assistant,retail,"London, England, England",5,4.0,5.0,5.0,5.0,5.0,268
+1755,aldi, Store Assistant,printing,"London, England, England",5,4.0,5.0,5.0,5.0,5.0,7
+1756,aldi, Unemployed,retail,"Melton Mowbray, England, England",2,1.0,1.0,5.0,3.0,3.0,268
+1757,aldi, Unemployed,printing,"Melton Mowbray, England, England",2,1.0,1.0,5.0,3.0,3.0,7
+1758,aldi, Sales Assistant,retail,Mumbai,3,2.0,3.0,4.0,2.0,3.0,268
+1759,aldi, Sales Assistant,printing,Mumbai,3,2.0,3.0,4.0,2.0,3.0,7
+1760,aldi, Store Assistant,retail,New Delhi,1,1.0,2.0,2.0,1.0,2.0,268
+1761,aldi, Store Assistant,printing,New Delhi,1,1.0,2.0,2.0,1.0,2.0,7
+1762,aldi, Assistant Manager,retail,"Glasgow, Scotland, Scotland",4,2.0,4.0,5.0,5.0,3.0,268
+1763,aldi, Assistant Manager,printing,"Glasgow, Scotland, Scotland",4,2.0,4.0,5.0,5.0,3.0,7
+1764,aldi, Deputy Manager,retail,"London, England, England",5,1.0,5.0,5.0,5.0,5.0,268
+1765,aldi, Deputy Manager,printing,"London, England, England",5,1.0,5.0,5.0,5.0,5.0,7
+1770,aldi, Buying Manager,retail,"Nottingham, England, England",1,1.0,1.0,1.0,1.0,5.0,268
+1771,aldi, Buying Manager,printing,"Nottingham, England, England",1,1.0,1.0,1.0,1.0,5.0,7
+1772,aldi, Secretary,retail,"London, England, England",3,3.0,3.0,3.0,3.0,3.0,268
+1773,aldi, Secretary,printing,"London, England, England",3,3.0,3.0,3.0,3.0,3.0,7
+1774,aldi, Aldi,retail,"Stockport, England, England",2,2.0,1.0,3.0,3.0,1.0,268
+1775,aldi, Aldi,printing,"Stockport, England, England",2,2.0,1.0,3.0,3.0,1.0,7
+1778,aldi, Store Assistant,retail,"Liverpool, England, England",3,2.0,3.0,5.0,2.0,3.0,268
+1779,aldi, Store Assistant,printing,"Liverpool, England, England",3,2.0,3.0,5.0,2.0,3.0,7
+1780,aldi, Store Assistant,retail,"Aylesbury, England, England",4,2.0,4.0,4.0,2.0,3.0,268
+1781,aldi, Store Assistant,printing,"Aylesbury, England, England",4,2.0,4.0,4.0,2.0,3.0,7
+1782,aldi, Graduate Area Manager,retail,"Chelmsford, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1783,aldi, Graduate Area Manager,printing,"Chelmsford, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1784,aldi, Store Assistant,retail,"Bramley, West Yorkshire, Yorkshire and the Humber, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1785,aldi, Store Assistant,printing,"Bramley, West Yorkshire, Yorkshire and the Humber, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1786,aldi, Store Assistant,retail,"Leicester, England, England",3,2.0,2.0,2.0,2.0,2.0,268
+1787,aldi, Store Assistant,printing,"Leicester, England, England",3,2.0,2.0,2.0,2.0,2.0,7
+1788,aldi, Store Manager,retail,"Coventry, England, England",3,1.0,1.0,2.0,3.0,3.0,268
+1789,aldi, Store Manager,printing,"Coventry, England, England",3,1.0,1.0,2.0,3.0,3.0,7
+1790,aldi, Aldi Store Assistant,retail,"Chelmsford, England, England",3,1.0,4.0,5.0,1.0,1.0,268
+1791,aldi, Aldi Store Assistant,printing,"Chelmsford, England, England",3,1.0,4.0,5.0,1.0,1.0,7
+1792,aldi, Deputy Manager,retail,"Worthing, South East England, England, England",4,1.0,4.0,3.0,2.0,1.0,268
+1793,aldi, Deputy Manager,printing,"Worthing, South East England, England, England",4,1.0,4.0,3.0,2.0,1.0,7
+1794,aldi, Payroll Specialist,retail,"Swindon, Wiltshire, South West England, England, England",4,4.0,4.0,5.0,2.0,5.0,268
+1795,aldi, Payroll Specialist,printing,"Swindon, Wiltshire, South West England, England, England",4,4.0,4.0,5.0,2.0,5.0,7
+1796,aldi, Sales Assistant,retail,"York, England, England",3,1.0,3.0,1.0,2.0,1.0,268
+1797,aldi, Sales Assistant,printing,"York, England, England",3,1.0,3.0,1.0,2.0,1.0,7
+1798,aldi, Store Assistant,retail,"London, England, England",4,3.0,4.0,5.0,4.0,4.0,268
+1799,aldi, Store Assistant,printing,"London, England, England",4,3.0,4.0,5.0,4.0,4.0,7
+1800,aldi, Marketing Manager,retail,"London, England, England",4,5.0,4.0,5.0,3.0,3.0,268
+1801,aldi, Marketing Manager,printing,"London, England, England",4,5.0,4.0,5.0,3.0,3.0,7
+1802,aldi, Assistant Manager,retail,"Manchester, England, England",3,2.0,3.0,4.0,2.0,4.0,268
+1803,aldi, Assistant Manager,printing,"Manchester, England, England",3,2.0,3.0,4.0,2.0,4.0,7
+1804,aldi, Assistant Manager,retail,"Weymouth, England, England",4,2.0,3.0,5.0,5.0,4.0,268
+1805,aldi, Assistant Manager,printing,"Weymouth, England, England",4,2.0,3.0,5.0,5.0,4.0,7
+1806,aldi, Manager,retail,"Shrewsbury, England, England",2,1.0,1.0,1.0,3.0,3.0,268
+1807,aldi, Manager,printing,"Shrewsbury, England, England",2,1.0,1.0,1.0,3.0,3.0,7
+1808,aldi, Store Assistant,retail,"Wolverhampton, England, England",3,2.0,3.0,4.0,3.0,3.0,268
+1809,aldi, Store Assistant,printing,"Wolverhampton, England, England",3,2.0,3.0,4.0,3.0,3.0,7
+1812,aldi, Aldi Store Assistant,retail,"Sheffield, England, England",3,1.0,2.0,2.0,3.0,3.0,268
+1813,aldi, Aldi Store Assistant,printing,"Sheffield, England, England",3,1.0,2.0,2.0,3.0,3.0,7
+1814,aldi, Sales Assistant,retail,"Swansea, Wales, Wales",5,4.0,3.0,3.0,4.0,2.0,268
+1815,aldi, Sales Assistant,printing,"Swansea, Wales, Wales",5,4.0,3.0,3.0,4.0,2.0,7
+1816,aldi, Store Manager,retail,"Reading, England, England",3,1.0,5.0,5.0,1.0,5.0,268
+1817,aldi, Store Manager,printing,"Reading, England, England",3,1.0,5.0,5.0,1.0,5.0,7
+1818,aldi, Warehouse Picker,retail,"Darlington, North East England, England, England",3,2.0,4.0,5.0,2.0,4.0,268
+1819,aldi, Warehouse Picker,printing,"Darlington, North East England, England, England",3,2.0,4.0,5.0,2.0,4.0,7
+1820,aldi, Warehouse Order Picker,retail,"Neston, North West England, England, England",3,3.0,3.0,3.0,1.0,3.0,268
+1821,aldi, Warehouse Order Picker,printing,"Neston, North West England, England, England",3,3.0,3.0,3.0,1.0,3.0,7
+1824,aldi, Aldi,retail,"Birmingham, England, England",3,3.0,3.0,4.0,3.0,4.0,268
+1825,aldi, Aldi,printing,"Birmingham, England, England",3,3.0,3.0,4.0,3.0,4.0,7
+1826,aldi, Sales Assistant,retail,"Prudhoe, England, England",3,1.0,3.0,3.0,3.0,1.0,268
+1827,aldi, Sales Assistant,printing,"Prudhoe, England, England",3,1.0,3.0,3.0,3.0,1.0,7
+1828,aldi, Store Assistant,retail,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1829,aldi, Store Assistant,printing,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1834,aldi, Order Picker,retail,"Queenborough, England, England",2,1.0,1.0,3.0,1.0,2.0,268
+1835,aldi, Order Picker,printing,"Queenborough, England, England",2,1.0,1.0,3.0,1.0,2.0,7
+1840,aldi, Manager,retail,"London, England, England",3,2.0,2.0,4.0,3.0,3.0,268
+1841,aldi, Manager,printing,"London, England, England",3,2.0,2.0,4.0,3.0,3.0,7
+1842,aldi, Payroll Team Leader,retail,"Atherstone, England, England",4,4.0,3.0,5.0,4.0,5.0,268
+1843,aldi, Payroll Team Leader,printing,"Atherstone, England, England",4,4.0,3.0,5.0,4.0,5.0,7
+1846,aldi, ASM,retail,"Crewe, England, England",1,1.0,1.0,1.0,1.0,1.0,268
+1847,aldi, ASM,printing,"Crewe, England, England",1,1.0,1.0,1.0,1.0,1.0,7
+1848,aldi, HGV DriverClass1,retail,"Golborne, England, England",3,2.0,1.0,3.0,2.0,2.0,268
+1849,aldi, HGV DriverClass1,printing,"Golborne, England, England",3,2.0,1.0,3.0,2.0,2.0,7
+1850,aldi, Retail Store Assistant,retail,"Southend-on-Sea, England, England",1,1.0,1.0,1.0,1.0,4.0,268
+1851,aldi, Retail Store Assistant,printing,"Southend-on-Sea, England, England",1,1.0,1.0,1.0,1.0,4.0,7
+1852,aldi, Junior Buyer,retail,"Tamworth, England, England",2,1.0,2.0,1.0,1.0,1.0,268
+1853,aldi, Junior Buyer,printing,"Tamworth, England, England",2,1.0,2.0,1.0,1.0,1.0,7
+1854,aldi, Area Manager,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,268
+1855,aldi, Area Manager,printing,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,7
+1856,aldi, Customer Service,retail,"Edinburgh, Scotland, Scotland",5,2.0,5.0,5.0,5.0,5.0,268
+1857,aldi, Customer Service,printing,"Edinburgh, Scotland, Scotland",5,2.0,5.0,5.0,5.0,5.0,7
+1858,aldi, Store Assistant,retail,"Manchester, England, England",3,3.0,3.0,3.0,3.0,2.0,268
+1859,aldi, Store Assistant,printing,"Manchester, England, England",3,3.0,3.0,3.0,3.0,2.0,7
+1860,aldi, Store Assistant,retail,"Glasgow, Scotland, Scotland",2,1.0,2.0,2.0,3.0,2.0,268
+1861,aldi, Store Assistant,printing,"Glasgow, Scotland, Scotland",2,1.0,2.0,2.0,3.0,2.0,7
+2132,aqa, Manager,education management,"London, England, England",2,2.0,1.0,1.0,2.0,3.0,2866
+2133,aqa, Manager,telecommunications,"London, England, England",2,2.0,1.0,1.0,2.0,3.0,1
+2134,aqa, Manager,retail,"London, England, England",2,2.0,1.0,1.0,2.0,3.0,1
+2135,aqa, Office Administrator,education management,"Manchester, England, England",1,1.0,2.0,1.0,1.0,1.0,2866
+2136,aqa, Office Administrator,telecommunications,"Manchester, England, England",1,1.0,2.0,1.0,1.0,1.0,1
+2137,aqa, Office Administrator,retail,"Manchester, England, England",1,1.0,2.0,1.0,1.0,1.0,1
+2147,aqa, Customer Services,education management,"Manchester, England, England",4,4.0,4.0,4.0,3.0,3.0,2866
+2148,aqa, Customer Services,telecommunications,"Manchester, England, England",4,4.0,4.0,4.0,3.0,3.0,1
+2149,aqa, Customer Services,retail,"Manchester, England, England",4,4.0,4.0,4.0,3.0,3.0,1
+2153,aqa, Administration Assistant,education management,"Manchester, England, England",4,3.0,4.0,5.0,2.0,2.0,2866
+2154,aqa, Administration Assistant,telecommunications,"Manchester, England, England",4,3.0,4.0,5.0,2.0,2.0,1
+2155,aqa, Administration Assistant,retail,"Manchester, England, England",4,3.0,4.0,5.0,2.0,2.0,1
+2159,aqa, Payroll Administrator,education management,"Manchester, England, England",4,5.0,4.0,3.0,4.0,3.0,2866
+2160,aqa, Payroll Administrator,telecommunications,"Manchester, England, England",4,5.0,4.0,3.0,4.0,3.0,1
+2161,aqa, Payroll Administrator,retail,"Manchester, England, England",4,5.0,4.0,3.0,4.0,3.0,1
+2162,aqa, Customer Service Advisor,education management,"Manchester, England, England",5,4.0,4.0,4.0,4.0,4.0,2866
+2163,aqa, Customer Service Advisor,telecommunications,"Manchester, England, England",5,4.0,4.0,4.0,4.0,4.0,1
+2164,aqa, Customer Service Advisor,retail,"Manchester, England, England",5,4.0,4.0,4.0,4.0,4.0,1
+2165,aqa, Customer Services Adviser,education management,"Manchester, England, England",5,4.0,4.0,5.0,4.0,4.0,2866
+2166,aqa, Customer Services Adviser,telecommunications,"Manchester, England, England",5,4.0,4.0,5.0,4.0,4.0,1
+2167,aqa, Customer Services Adviser,retail,"Manchester, England, England",5,4.0,4.0,5.0,4.0,4.0,1
+2168,aqa, Strategic Human Resources Business Partner,education management,"Manchester, England, England",5,5.0,5.0,3.0,3.0,4.0,2866
+2169,aqa, Strategic Human Resources Business Partner,telecommunications,"Manchester, England, England",5,5.0,5.0,3.0,3.0,4.0,1
+2170,aqa, Strategic Human Resources Business Partner,retail,"Manchester, England, England",5,5.0,5.0,3.0,3.0,4.0,1
+2171,aqa, Project Manager,education management,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,2866
+2172,aqa, Project Manager,telecommunications,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,1
+2173,aqa, Project Manager,retail,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,1
+2174,aqa, Investigator Compliance,education management,"Guildford, England, England",5,5.0,5.0,5.0,5.0,5.0,2866
+2175,aqa, Investigator Compliance,telecommunications,"Guildford, England, England",5,5.0,5.0,5.0,5.0,5.0,1
+2176,aqa, Investigator Compliance,retail,"Guildford, England, England",5,5.0,5.0,5.0,5.0,5.0,1
+2189,aqa, Events Assistant,education management,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,2866
+2190,aqa, Events Assistant,telecommunications,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,1
+2191,aqa, Events Assistant,retail,"Manchester, England, England",4,5.0,4.0,4.0,4.0,4.0,1
+2192,aqa, Administrator,education management,"Manchester, England, England",4,5.0,4.0,4.0,5.0,4.0,2866
+2193,aqa, Administrator,telecommunications,"Manchester, England, England",4,5.0,4.0,4.0,5.0,4.0,1
+2194,aqa, Administrator,retail,"Manchester, England, England",4,5.0,4.0,4.0,5.0,4.0,1
+2195,aqa, Resourcing Partner,education management,"Manchester, England, England",5,4.0,5.0,3.0,3.0,4.0,2866
+2196,aqa, Resourcing Partner,telecommunications,"Manchester, England, England",5,4.0,5.0,3.0,3.0,4.0,1
+2197,aqa, Resourcing Partner,retail,"Manchester, England, England",5,4.0,5.0,3.0,3.0,4.0,1
+5675,asda, ASDA Colleague,retail,"Leeds, England, England",4,4.0,4.0,4.0,3.0,3.0,28211
+5677,asda, Checkout Assistant,retail,"Perry Barr, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+5678,asda, Checkout Operator,retail,"Nuneaton, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5679,asda, Chilled Colleague,retail,"Edinburgh, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,28211
+5681,asda, Deputy Store Manager,retail,"Manchester, England, England",1,1.0,1.0,3.0,2.0,2.0,28211
+5683,asda, Student,retail,"Cardiff, Wales, Wales",5,5.0,5.0,5.0,4.0,5.0,28211
+5685,asda, Area Manager,retail,"Newcastle upon Tyne, England, England",5,5.0,5.0,5.0,4.0,5.0,28211
+5686,asda, Counter Staff,retail,"Portadown, Craigavon, Northern Ireland, Northern Ireland",1,1.0,1.0,1.0,1.0,1.0,28211
+5687,asda, Customer Service,retail,"Hull, England, England",5,4.0,4.0,5.0,5.0,5.0,28211
+5688,asda, Pharmacy Dispenser,retail,"Bradford, Yorkshire and the Humber, England, England",3,3.0,1.0,5.0,1.0,1.0,28211
+5693,asda, Counters Assistant,retail,"Frome, England, England",4,2.0,4.0,4.0,4.0,4.0,28211
+5694,asda, Customer Assistant,retail,"Hailsham, England, England",1,3.0,1.0,3.0,3.0,1.0,28211
+5695,asda, Customer Assistant,retail,"Hailsham, England, England",1,3.0,1.0,3.0,3.0,1.0,28211
+5701,asda, Sales Assistant,retail,"Glasgow, Scotland, Scotland",5,3.0,4.0,5.0,4.0,4.0,28211
+5702,asda, Section Leader,retail,"Portadown, Craigavon, Northern Ireland, Northern Ireland",1,1.0,1.0,1.0,3.0,1.0,28211
+5704,asda, Account Manager,retail,"Dorchester, SC",5,5.0,5.0,5.0,5.0,5.0,28211
+5705,asda, Human Resources Manager,retail,"Leeds, England, England",3,4.0,2.0,2.0,3.0,3.0,28211
+5706,asda, Warehouse Associate,retail,"Leeds, England, England",5,5.0,3.0,5.0,3.0,3.0,28211
+5709,asda, Customer Service Assistant,retail,"Bradford, Yorkshire and the Humber, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+5710,asda, Home Shopper,retail,"Milton Keynes, England, England",1,1.0,5.0,5.0,1.0,1.0,28211
+5712,asda, Security Guard,retail,"Swansea, Wales, Wales",4,4.0,3.0,5.0,4.0,4.0,28211
+5713,asda, Shop Assistant,retail,"Aberdeen, Scotland, Scotland",4,3.0,3.0,4.0,1.0,3.0,28211
+5715,asda, Graduate,retail,"Coventry, England, England",5,4.0,4.0,4.0,2.0,3.0,28211
+5717,asda, Sales Associate,retail,"Birmingham, England, England",4,4.0,5.0,5.0,4.0,4.0,28211
+5718,asda, Sales Associate/Cashier,retail,"Ashton-under-Lyne, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5721,asda, Warehouse Colleague,retail,"Avonmouth, England, England",1,2.0,1.0,1.0,1.0,2.0,28211
+5722,asda, Delivery Driver,retail,"Roehampton, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+5725,asda, Store Assistant,retail,"Manchester, England, England",2,1.0,2.0,4.0,1.0,2.0,28211
+5726,asda, Store Assistant,retail,"Manchester, England, England",2,1.0,2.0,4.0,1.0,2.0,28211
+5727,asda, Store Colleague,retail,"Doncaster, England, England",2,2.0,2.0,4.0,2.0,2.0,28211
+5730,asda, Home Shopping Picker,retail,"Dundee, Scotland, Scotland",3,4.0,3.0,4.0,4.0,4.0,28211
+5731,asda, Security Colleague,retail,"Billingham, England, England",3,3.0,2.0,4.0,3.0,2.0,28211
+5733,asda, ASDA Colleague,retail,"Bradford, Yorkshire and the Humber, England, England",4,4.0,4.0,5.0,4.0,3.0,28211
+5734,asda, Checkout Runner,retail,"Coventry, England, England",4,4.0,3.0,3.0,3.0,3.0,28211
+5735,asda, Delivery Driver,retail,"Chatham, England, England",4,3.0,3.0,4.0,3.0,4.0,28211
+5739,asda, Checkout Operator,retail,"Leeds, England, England",4,3.0,4.0,5.0,2.0,2.0,28211
+5745,asda, Currently Unemployed,retail,"Stockport, England, England",3,3.0,2.0,3.0,3.0,2.0,28211
+5747,asda, ECommerce Manager,retail,"Colchester, England, England",3,1.0,1.0,1.0,1.0,3.0,28211
+5748,asda, Home Shopping Picker,retail,"Totton, England, England",4,3.0,3.0,2.0,3.0,3.0,28211
+5749,asda, Retail Sales Assistant,retail,"Chadwell, England, England",5,4.0,5.0,4.0,5.0,5.0,28211
+5750,asda, Seasonal Sales Assistant,retail,"Peterborough, England, England",5,3.0,4.0,4.0,4.0,3.0,28211
+5752,asda, Section Leader,retail,"Carlisle, England, England",2,1.0,3.0,4.0,2.0,4.0,28211
+5757,asda, Delivery Driver,retail,"Bristol, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5759,asda, Store Assistant,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5762,asda, Customer Service,retail,"Coventry, England, England",4,5.0,3.0,4.0,3.0,2.0,28211
+5765,asda, Shelf Stacker,retail,"Bedminster, England, England",3,3.0,1.0,4.0,1.0,1.0,28211
+5769,asda, Grocery Stocker,retail,"Kirkcaldy, Scotland, Scotland",2,2.0,2.0,2.0,2.0,2.0,28211
+5770,asda, Project Manager,retail,"Leeds, England, England",5,3.0,4.0,4.0,4.0,4.0,28211
+5771,asda, Project Manager,retail,"Leeds, England, England",4,4.0,3.0,4.0,4.0,2.0,28211
+5773,asda, Sales Associate/Cashier,retail,"Weymouth, England, England",4,4.0,3.0,1.0,4.0,4.0,28211
+5775,asda, Customer Service,retail,"Glasgow, Scotland, Scotland",3,4.0,4.0,3.0,4.0,4.0,28211
+5776,asda, FRESH COLLEAGUE,retail,"Edinburgh, Scotland, Scotland",4,4.0,4.0,5.0,3.0,4.0,28211
+5778,asda, Shop Assistant,retail,"London, England, England",4,5.0,5.0,5.0,5.0,4.0,28211
+5779,asda, Software Engineer,retail,Ernad,5,5.0,5.0,5.0,5.0,5.0,28211
+5780,asda, Warehouse Operative,retail,"Erith, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5782,asda, Counters Assistant,retail,"Brighton, England, England",2,4.0,2.0,4.0,3.0,2.0,28211
+5784,asda, Farmer,retail,"Birmingham, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5787,asda, ASDA Colleague,retail,"London, England, England",1,2.0,1.0,2.0,1.0,2.0,28211
+5788,asda, ASDA Colleague,retail,"London, England, England",1,2.0,1.0,2.0,1.0,2.0,28211
+5790,asda, Retail Sales Associate,retail,"Wigan, England, England",3,4.0,1.0,3.0,3.0,3.0,28211
+5791,asda, Sales Assistant,retail,"London, England, England",5,3.0,5.0,5.0,3.0,5.0,28211
+5797,asda, Customer Services Assistant,retail,"Northampton, England, England",4,4.0,4.0,5.0,3.0,4.0,28211
+5798,asda, Sales Associate,retail,"Rochdale, England, England",3,3.0,4.0,4.0,3.0,4.0,28211
+5799,asda, TILL OPERATOR,retail,"Belfast, Northern Ireland, Northern Ireland",4,2.0,3.0,5.0,3.0,3.0,28211
+5800,asda, Ambient Shopfloor Assistant,retail,"Hyde, England, England",2,4.0,1.0,1.0,3.0,2.0,28211
+5801,asda, People Team,retail,"Leeds, England, England",5,5.0,5.0,4.0,4.0,5.0,28211
+5813,asda, Customer Assistant,retail,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,28211
+5814,asda, Customer Assistant,retail,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,28211
+5818,asda, Loader,retail,"Lancaster, England, England",3,5.0,3.0,4.0,3.0,1.0,28211
+5820,asda, Sales Assistant,retail,"Brighton Marina village, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5821,asda, Customer Service,retail,"Thurmaston, England, England",1,1.0,1.0,3.0,2.0,1.0,28211
+5823,asda, Store Colleague,retail,"Sunderland, North East England, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5826,asda, Checkout Operator,retail,"Bishop Auckland, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5828,asda, Section Leader,retail,"Blyth, North East England, England, England",3,2.0,3.0,3.0,3.0,4.0,28211
+5829,asda, Asda Produce Colleague,retail,"London, England, England",3,3.0,5.0,4.0,3.0,3.0,28211
+5830,asda, ASDA Colleague,retail,"Totton, England, England",4,4.0,4.0,4.0,4.0,3.0,28211
+5831,asda, Asda,retail,"Chorley, England, England",5,5.0,5.0,5.0,3.0,3.0,28211
+5832,asda, Asda,retail,"Chorley, England, England",5,5.0,5.0,5.0,3.0,3.0,28211
+5834,asda, Checkout Operator,retail,"Bishopbriggs, Scotland, Scotland",4,4.0,5.0,5.0,3.0,3.0,28211
+5837,asda, Sales Associate,retail,"Saint Helens, West Midlands, England, England",5,2.0,5.0,5.0,4.0,5.0,28211
+5838,asda, Store Assistant,retail,"Hoddesdon, East of England, England, England",4,5.0,4.0,5.0,4.0,4.0,28211
+5839,asda, Customer Sales Assistant,retail,"Hartlepool, England, England",5,4.0,5.0,5.0,5.0,4.0,28211
+5840,asda, Warehouse Worker,retail,"Bristol, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+5843,asda, Retail Assistant,retail,"Gillingham, South West England, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5845,asda, Stacker,retail,"London, England, England",4,3.0,4.0,5.0,5.0,4.0,28211
+5846,asda, Buying Manager,retail,"Lutterworth, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5847,asda, ASDA Colleague,retail,"Harrow, England, England",5,3.0,5.0,4.0,4.0,4.0,28211
+5849,asda, Home Shopping Assistant,retail,"Blackpool, England, England",3,3.0,5.0,5.0,3.0,1.0,28211
+5850,asda, Slaesperson,retail,"Wolverhampton, England, England",4,3.0,4.0,4.0,2.0,2.0,28211
+5854,asda, Pharmacy Dispenser,retail,"London, England, England",3,3.0,4.0,5.0,3.0,1.0,28211
+5856,asda, Sales,retail,"London, England, England",3,1.0,4.0,4.0,3.0,1.0,28211
+5857,asda, Sales,retail,"London, England, England",3,1.0,4.0,4.0,3.0,1.0,28211
+5859,asda, Shopfloor Assistant,retail,"Leeds, England, England",3,4.0,2.0,3.0,2.0,3.0,28211
+5860,asda, Asda Process Colleague,retail,Hong Kong,4,4.0,4.0,5.0,4.0,4.0,28211
+5861,asda, Personal Shopper,retail,"London, England, England",5,1.0,3.0,5.0,1.0,3.0,28211
+5863,asda, ASDA Colleague,retail,"Perry Barr, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5865,asda, Checkout Operator,retail,"Redditch, England, England",3,4.0,3.0,5.0,2.0,4.0,28211
+5866,asda, Home Shopping Picker,retail,"Cookstown, Northern Ireland, Northern Ireland",5,5.0,5.0,5.0,5.0,5.0,28211
+5867,asda, Sales Assistant,retail,"Birmingham, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+5868,asda, Shop Floor Assistant,retail,"Bridgend, Wales, Wales",4,3.0,4.0,5.0,5.0,4.0,28211
+5869,asda, Store Colleague,retail,"London, England, England",3,4.0,2.0,1.0,3.0,3.0,28211
+5872,asda, ASDA Colleague,retail,"Rotherham, England, England",4,2.0,3.0,5.0,2.0,3.0,28211
+5874,asda, Checkout Assistant,retail,"Bristol, England, England",4,4.0,3.0,3.0,3.0,3.0,28211
+5879,asda, Sales Associate,retail,"Manchester, England, England",3,2.0,2.0,2.0,2.0,2.0,28211
+5883,asda, Ambient Team Member,retail,"Mitcham, England, England",4,3.0,5.0,5.0,4.0,3.0,28211
+5885,asda, Security Section Leader,retail,"Birmingham, England, England",2,2.0,2.0,2.0,2.0,2.0,28211
+5890,asda, Retail Sales Assistant,retail,"Birmingham, IA",5,5.0,5.0,5.0,5.0,5.0,28211
+5891,asda, Service Colleague,retail,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,28211
+5894,asda, Store Colleague,retail,"London, England, England",3,4.0,3.0,2.0,3.0,4.0,28211
+5896,asda, Delivery Driver,retail,"Andover, England, England",4,1.0,1.0,1.0,3.0,2.0,28211
+5899,asda, Unemployed,retail,"Bewdley, England, England",4,5.0,5.0,4.0,5.0,5.0,28211
+5900,asda, Warehouse Operations Associate,retail,"Stoke-on-Trent, England, England",3,5.0,4.0,5.0,3.0,5.0,28211
+5901,asda, Advertising Manager,retail,"Dartford, England, England",4,4.0,4.0,4.0,4.0,3.0,28211
+5906,asda, Section Leader,retail,"Canterbury, England, England",2,2.0,3.0,3.0,3.0,2.0,28211
+5907,asda, Shelf Stacker,retail,"Shefford, England, England",5,4.0,3.0,4.0,1.0,3.0,28211
+5910,asda, Store Colleague,retail,"Wakefield, England, England",4,4.0,4.0,4.0,4.0,4.0,28211
+5911,asda, CSA ,retail,"Durham, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5912,asda, Grocery Home Shopper,retail,"Radcliffe, England, England",4,3.0,4.0,4.0,3.0,2.0,28211
+5916,asda, Warehouse Team Manager,retail,"Warrington, North West England, England, England",4,3.0,3.0,3.0,4.0,5.0,28211
+5917,asda, Customer Assistant,retail,"Birmingham, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+5919,asda, Home Shopping Delivery Driver,retail,"Belfast, Northern Ireland, Northern Ireland",4,4.0,3.0,4.0,3.0,4.0,28211
+5920,asda, Services Colleague,retail,"Cardiff, Wales, Wales",4,4.0,4.0,4.0,2.0,3.0,28211
+5921,asda, TILL OPERATOR,retail,Newcastle,1,1.0,1.0,1.0,1.0,1.0,28211
+5922,asda, Checkout Operator,retail,"Hayes, England, England",3,3.0,3.0,5.0,3.0,2.0,28211
+5923,asda, Department Manager,retail,"Preston, North West England, England, England",3,2.0,2.0,4.0,3.0,4.0,28211
+5925,asda, Manager,retail,"Belfast, Northern Ireland, Northern Ireland",3,3.0,4.0,4.0,4.0,4.0,28211
+5927,asda, Baker,retail,"Southgate, England, England",1,1.0,1.0,5.0,1.0,1.0,28211
+5928,asda, Colleague,retail,"Kettering, England, England",4,5.0,4.0,5.0,4.0,3.0,28211
+5933,asda, Research Scientist,retail,"Cardiff, Wales, Wales",5,4.0,4.0,2.0,4.0,4.0,28211
+5935,asda, Grocery Staff,retail,"London, England, England",1,1.0,1.0,4.0,1.0,1.0,28211
+5939,asda, Sales Assistant,retail,"Stoke-on-Trent, England, England",4,4.0,4.0,2.0,3.0,3.0,28211
+5940,asda, Cashier,retail,"Maidenhead, England, England",5,5.0,5.0,5.0,4.0,3.0,28211
+5943,asda, E,retail,"Birmingham, England, England",4,2.0,3.0,4.0,3.0,4.0,28211
+5945,asda, Server/Waiter,retail,"London, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+5947,asda, ASDA Colleague,retail,"London, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+5949,asda, Customer Assissant,retail,"Hounslow, England, England",3,4.0,3.0,4.0,3.0,4.0,28211
+5950,asda, Financial Analyst,retail,"Penns, MS",4,4.0,4.0,4.0,4.0,4.0,28211
+5951,asda, Retail Assistant,retail,"Uttoxeter, England, England",4,4.0,5.0,4.0,4.0,4.0,28211
+5952,asda, Sales Assistant,retail,"Gwalior, Madhya Pradesh, Madhya Pradesh",5,5.0,5.0,5.0,1.0,5.0,28211
+5959,asda," Shop Floor Assistant, Tills, and Pricer",retail,Mangalore,5,5.0,5.0,5.0,5.0,5.0,28211
+5960,asda, Supervisor,retail,"Glasgow, Scotland, Scotland",5,4.0,4.0,4.0,4.0,4.0,28211
+5964,asda, Delivery Driver,retail,"Aberdeen, Scotland, Scotland",3,4.0,3.0,3.0,1.0,3.0,28211
+5967,asda, Cashier,retail,"Wolverhampton, England, England",5,4.0,4.0,3.0,4.0,4.0,28211
+5971,asda, Wholesale and Retail Trade Manager,retail,"London, England, England",5,4.0,5.0,5.0,4.0,4.0,28211
+5972,asda, Anonymous Employee,retail,"Manchester, England, England",4,3.0,3.0,5.0,3.0,3.0,28211
+5974,asda, Warehosue Operative,retail,"Avonmouth, England, England",2,1.0,3.0,3.0,1.0,1.0,28211
+5975,asda, Home Shopping Picker,retail,"Runcorn, England, England",3,2.0,2.0,5.0,3.0,4.0,28211
+5977,asda, Department Head,retail,"Orlando, FL",1,1.0,1.0,1.0,1.0,1.0,28211
+5980,asda, Customer Assistant,retail,"Bournemouth, England, England",3,4.0,1.0,5.0,3.0,2.0,28211
+5981,asda, Customer Service Representative,retail,"Havant, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+5983,asda, Grocery Assistant,retail,North West,3,3.0,3.0,3.0,3.0,3.0,28211
+5987,asda, Grocery Colleague,retail,"Biggleswade, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+5991,asda, Shelf Stocker,retail,"Coventry, England, England",3,4.0,3.0,5.0,2.0,3.0,28211
+5992,asda, Customer Service,retail,"London, England, England",4,4.0,4.0,4.0,4.0,4.0,28211
+5993,asda, Chief Financial Officer,retail,"Manchester, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+5994,asda, Customer Service Representative,retail,Lisboa,5,5.0,5.0,5.0,5.0,5.0,28211
+5995,asda, Manager,retail,"Sheffield, England, England",3,3.0,1.0,4.0,2.0,2.0,28211
+6000,asda, Checkout Assistant,retail,"Minworth, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6005,asda, Grocery Colleague,retail,"Dundee, Scotland, Scotland",3,3.0,2.0,4.0,3.0,3.0,28211
+6006,asda, Store Assistant,retail,"Edinburgh, Scotland, Scotland",3,4.0,3.0,3.0,2.0,3.0,28211
+6008,asda, Systems Engineer,retail,"America, AL",5,5.0,5.0,5.0,5.0,5.0,28211
+6010,asda, Cashier,retail,"South Shields, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6013,asda, Checkout Operator,retail,"Manchester, England, England",5,3.0,3.0,1.0,2.0,3.0,28211
+6014,asda, Sales Assistant,retail,"London, England, England",2,3.0,4.0,5.0,4.0,4.0,28211
+6015,asda, Bakery Assistant,retail,"Cheltenham, England, England",3,4.0,3.0,4.0,4.0,3.0,28211
+6018,asda, Cleaner,retail,"London, England, England",3,2.0,5.0,5.0,3.0,3.0,28211
+6020,asda, HGV DriverClass1,retail,"Chepstow, Wales, Wales",3,2.0,4.0,2.0,1.0,4.0,28211
+6022,asda, Home Delivery Driver,retail,"Huddersfield, England, England",4,5.0,5.0,5.0,5.0,5.0,28211
+6032,asda, Stocker,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6034,asda, Sales Associate,retail,"Nottingham, England, England",5,5.0,5.0,5.0,5.0,4.0,28211
+6035,asda, Store Assistant,retail,"Burton upon Trent, England, England",3,3.0,3.0,3.0,3.0,1.0,28211
+6037,asda, Nightshift Shift Manager,retail,"Chepstow, Wales, Wales",3,2.0,3.0,4.0,3.0,4.0,28211
+6038,asda, Store Assistant,retail,"Northolt, England, England",4,3.0,2.0,4.0,2.0,2.0,28211
+6040,asda, Sales Associate/Cashier,retail,"Leeds, England, England",4,4.0,3.0,5.0,4.0,3.0,28211
+6042,asda, Anonymous Employee,retail,"Manchester, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+6044,asda, IT Support,retail,"Cardiff, Wales, Wales",3,5.0,3.0,5.0,2.0,5.0,28211
+6047,asda, George Retail Assistant,retail,"Enniskillen, Northern Ireland, Northern Ireland",4,5.0,5.0,5.0,2.0,4.0,28211
+6048,asda, Sales Assistant,retail,"Kings Hill, England, England",4,2.0,5.0,5.0,2.0,3.0,28211
+6050,asda, Buyer,retail,"Lincoln, England, England",5,4.0,5.0,5.0,4.0,3.0,28211
+6051,asda, Checkout,retail,"Edinburgh, Scotland, Scotland",3,3.0,2.0,4.0,3.0,2.0,28211
+6052,asda, Checkout Operator,retail,"Falkirk, Scotland, Scotland",4,5.0,4.0,4.0,3.0,3.0,28211
+6054,asda, Engineering,retail,"Sheffield, England, England",4,4.0,3.0,4.0,2.0,4.0,28211
+6057,asda, Retail Assistant,retail,"Bodmin, England, England",4,2.0,3.0,5.0,3.0,3.0,28211
+6058,asda, Administrative Assistant,retail,"Basildon, East of England, England, England",1,3.0,3.0,3.0,3.0,3.0,28211
+6061,asda, Customer Service Representative,retail,"London, England, England",5,3.0,3.0,4.0,4.0,2.0,28211
+6064,asda, Anonymous Employee,retail,Ber,5,5.0,5.0,5.0,5.0,5.0,28211
+6066,asda, Seasonal,retail,"Brierley Hill, England, England",3,5.0,3.0,5.0,1.0,1.0,28211
+6069,asda, ASDA Colleague,retail,"Bishop Auckland, England, England",4,3.0,2.0,2.0,1.0,2.0,28211
+6070,asda, Checkout Operator,retail,"Newtownards, Northern Ireland, Northern Ireland",2,2.0,1.0,2.0,2.0,2.0,28211
+6073,asda, Customer Assistant,retail,"Dundonald, Northern Ireland, Northern Ireland",3,3.0,3.0,5.0,3.0,3.0,28211
+6074,asda, Director,retail,"Birmingham, England, England",1,1.0,1.0,1.0,1.0,4.0,28211
+6075,asda, Grocery Stocker,retail,"Glasgow, Scotland, Scotland",4,4.0,5.0,5.0,3.0,3.0,28211
+6076,asda, Sales Assistant,retail,"Newcastle upon Tyne, England, England",4,3.0,4.0,4.0,4.0,3.0,28211
+6077,asda, Security Colleague,retail,"Newton Abbot, England, England",2,2.0,2.0,2.0,2.0,2.0,28211
+6079,asda, Customer Assistant,retail,"Romford, England, England",4,5.0,4.0,5.0,3.0,4.0,28211
+6080,asda, Customer Delivery Driver,retail,"Warrington, North West England, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6081,asda, Customer Service,retail,"Hanley, England, England",4,3.0,2.0,4.0,3.0,2.0,28211
+6082,asda, Sales Associate,retail,"Doncaster, England, England",3,5.0,4.0,5.0,4.0,3.0,28211
+6084,asda, Store Assistant,retail,"Edinburgh, Scotland, Scotland",5,5.0,5.0,5.0,4.0,5.0,28211
+6086,asda, Customer Service,retail,"Liverpool, England, England",4,4.0,3.0,4.0,4.0,4.0,28211
+6090,asda, Shop Floor Assistant,retail,"Edinburgh, Scotland, Scotland",4,5.0,3.0,5.0,5.0,2.0,28211
+6095,asda, Asda,retail,"London, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6099,asda, Geotechnical Engineer,retail,"Ashburn, VA",3,3.0,3.0,3.0,3.0,3.0,28211
+6100,asda, Website Merchandiser,retail,"Leeds, England, England",4,5.0,5.0,5.0,4.0,5.0,28211
+6103,asda, Delivery Driver,retail,"Redditch, England, England",2,3.0,2.0,3.0,2.0,2.0,28211
+6105,asda, Retail Assistant,retail,"Cardiff, Wales, Wales",3,4.0,5.0,5.0,2.0,2.0,28211
+6108,asda, Store Assistant,retail,"Aberdeen, Scotland, Scotland",4,4.0,4.0,4.0,4.0,5.0,28211
+6109,asda, Store Assistant,retail,"Caerphilly, Wales, Wales",3,3.0,3.0,4.0,3.0,3.0,28211
+6112,asda, Human Resources Administrator,retail,"Leeds, England, England",4,2.0,2.0,3.0,3.0,3.0,28211
+6114,asda, House Cleaner,retail,"London, England, England",5,4.0,5.0,2.0,2.0,1.0,28211
+6118,asda, Website Coordinator,retail,"Lutterworth, England, England",4,3.0,4.0,5.0,4.0,1.0,28211
+6119,asda, Anonymous Employee,retail,"Sheffield, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6127,asda, ASDA Colleague,retail,"Reading, England, England",4,4.0,4.0,4.0,4.0,4.0,28211
+6132,asda, Grocery Home Shopper,retail,"Risca, Wales, Wales",3,3.0,3.0,3.0,3.0,2.0,28211
+6133,asda, Personal Shopper,retail,"Bradford, Yorkshire and the Humber, England, England",3,3.0,4.0,4.0,5.0,4.0,28211
+6136,asda, ASDA Colleague,retail,"London, England, England",3,5.0,3.0,5.0,3.0,3.0,28211
+6140,asda, Home Shopping Picker,retail,"Wrexham, Wales, Wales",5,5.0,5.0,5.0,5.0,5.0,28211
+6141,asda, Public Affairs Manager,retail,"Leeds, England, England",4,5.0,5.0,5.0,3.0,3.0,28211
+6142,asda, Receptionist,retail,"Glasgow, Scotland, Scotland",5,5.0,4.0,5.0,4.0,4.0,28211
+6143,asda, Security Officer,retail,"Hull, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+6144,asda, Self Checkout,retail,"Lincoln, England, England",5,3.0,5.0,5.0,3.0,3.0,28211
+6145,asda, Store Assistant,retail,"Newcastle upon Tyne, England, England",3,2.0,3.0,3.0,2.0,3.0,28211
+6146,asda, Anonymous Employee,retail,"London, England, England",3,4.0,4.0,3.0,3.0,2.0,28211
+6148,asda, Home Shopping Picker,retail,"Bristol, England, England",4,3.0,4.0,4.0,4.0,4.0,28211
+6149,asda, IT Engineer,retail,"Toronto, ON",3,3.0,3.0,3.0,3.0,4.0,28211
+6150,asda, Retail Assistant,retail,"Harlow, England, England",4,5.0,4.0,3.0,3.0,1.0,28211
+6154,asda, Delivery Driver,retail,"Manchester, England, England",3,2.0,2.0,3.0,2.0,2.0,28211
+6156,asda, SMR,retail,"Leeds, England, England",3,5.0,3.0,2.0,5.0,3.0,28211
+6157,asda, Sales Assistant,retail,"Clacton-on-Sea, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6160,asda, Shop Assistant,retail,"Slough, Berkshire, South East England, England, England",1,1.0,1.0,1.0,1.0,2.0,28211
+6161,asda, Shop Floor Assistant,retail,"Boldon, England, England",2,2.0,1.0,3.0,3.0,3.0,28211
+6162,asda, Store Colleague,retail,"Walsall, England, England",5,4.0,4.0,5.0,3.0,3.0,28211
+6163,asda, Home Shopping Picker,retail,"Preston, North West England, England, England",5,3.0,4.0,5.0,4.0,4.0,28211
+6166,asda, Cashier/Online Shopping Picker,retail,"Luton, East of England, England, England",4,3.0,2.0,5.0,2.0,2.0,28211
+6167,asda, Checkout Operator,retail,"Alloa, Scotland, Scotland",1,1.0,1.0,2.0,2.0,2.0,28211
+6171,asda, Supervisor,retail,"London, England, England",5,4.0,3.0,4.0,5.0,4.0,28211
+6173,asda, Warehouse Operative,retail,"Leeds, England, England",3,2.0,3.0,5.0,2.0,2.0,28211
+6174,asda, ASDA Colleague,retail,"Liverpool, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+6175,asda, Administrator,retail,"Leeds, England, England",2,4.0,1.0,1.0,3.0,1.0,28211
+6176,asda, Ambient Colleague,retail,"Bolton, England, England",4,5.0,4.0,5.0,3.0,3.0,28211
+6179,asda, Delivery Driver,retail,"Bridgend, Wales, Wales",2,3.0,2.0,3.0,2.0,2.0,28211
+6189,asda, Manager,retail,"Glasgow, Scotland, Scotland",5,5.0,5.0,5.0,5.0,5.0,28211
+6193,asda, Shopfloor Assistant,retail,"Huddersfield, England, England",5,5.0,4.0,5.0,5.0,5.0,28211
+6194,asda, Store Colleague,retail,"Thornaby-on-Tees, England, England",4,3.0,5.0,5.0,2.0,4.0,28211
+6195,asda, Anonymous Employee,retail,"Leeds, England, England",4,4.0,5.0,5.0,4.0,4.0,28211
+6196,asda, Associate,retail,"London, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+6197,asda, Cleaner,retail,"Ellesmere Port, England, England",3,2.0,5.0,5.0,3.0,2.0,28211
+6201,asda, People Business Partner,retail,"Bristol, England, England",5,4.0,5.0,5.0,3.0,4.0,28211
+6202,asda, Shopfloor Assistant,retail,"Cardiff, Wales, Wales",2,4.0,1.0,4.0,2.0,3.0,28211
+6203,asda, Chilled Colleague,retail,"Yeovil, England, England",2,3.0,3.0,3.0,3.0,4.0,28211
+6206,asda, Home Shopping Colleague,retail,"Patchway, England, England",2,2.0,2.0,3.0,3.0,2.0,28211
+6209,asda, Software Engineer,retail,Rusia,5,5.0,5.0,5.0,5.0,5.0,28211
+6210,asda, Payroll Specialist,retail,"Middleton, Greater Manchester, North West England, England, England",5,4.0,4.0,4.0,4.0,4.0,28211
+6211,asda, Service Staff,retail,"Birmingham, England, England",1,1.0,3.0,3.0,1.0,1.0,28211
+6212,asda, ASDA Colleague,retail,Asdum,5,5.0,5.0,5.0,5.0,5.0,28211
+6219,asda, Dot Com Personal Shopper,retail,"Leyton, England, England",2,1.0,2.0,2.0,2.0,2.0,28211
+6220,asda, Order Picker,retail,"Reading, England, England",3,3.0,3.0,4.0,4.0,3.0,28211
+6221,asda, Part Time Cashier,retail,"London, England, England",3,2.0,3.0,4.0,3.0,3.0,28211
+6223,asda, Anonymous Employee,retail,"Rushden, East Midlands, England, England",1,2.0,2.0,4.0,5.0,2.0,28211
+6224,asda, Buyer,retail,"Leeds, England, England",4,3.0,5.0,5.0,4.0,3.0,28211
+6226,asda, Sales Associate,retail,"Romford, England, England",4,5.0,3.0,5.0,3.0,3.0,28211
+6227,asda, Store Assistant,retail,"Doncaster, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6230,asda, ASDA Colleague,retail,"Ferring, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6231,asda, Anonymous Employee,retail,"Birmingham, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6234,asda, Grocery Team Member,retail,"Ballyclare, Northern Ireland, Northern Ireland",4,4.0,4.0,5.0,4.0,4.0,28211
+6236,asda, ASDA Colleague,retail,"Louisville, TN",5,4.0,4.0,5.0,3.0,4.0,28211
+6237,asda, ASDA Colleague,retail,"Morley, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6238,asda, Applications Engineer,retail,Budapest,1,1.0,1.0,1.0,1.0,1.0,28211
+6240,asda, Cashier,retail,"London, England, England",5,5.0,5.0,3.0,5.0,5.0,28211
+6242,asda, Customer Service Representative,retail,"Manchester, England, England",4,4.0,4.0,3.0,3.0,3.0,28211
+6243,asda, Retail Sales Assistant,retail,"Taunton, England, England",5,2.0,5.0,5.0,5.0,1.0,28211
+6245,asda, Sales Associate/Cashier,retail,"Belfast, Northern Ireland, Northern Ireland",5,4.0,2.0,4.0,2.0,1.0,28211
+6247,asda, Technician,retail,"Perth, Western Australia, Western Australia",4,5.0,5.0,5.0,5.0,5.0,28211
+6249,asda, Delivery Driver,retail,"Dartford, England, England",5,4.0,4.0,3.0,4.0,5.0,28211
+6250,asda, Delivery Driver,retail,"Cardiff, Wales, Wales",3,3.0,3.0,3.0,3.0,3.0,28211
+6253,asda, Manager,retail,"London, England, England",5,3.0,3.0,3.0,3.0,3.0,28211
+6254,asda, Sales,retail,"Leeds, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6255,asda, Shop Floor Assistant,retail,"Lower Earley, England, England",2,2.0,2.0,2.0,2.0,2.0,28211
+6256,asda, Store Colleague,retail,"Leicester, England, England",2,2.0,2.0,2.0,2.0,2.0,28211
+6259,asda, Cashier/Supervisor,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6261,asda, Home Shopping Picker,retail,"Dartford, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6262,asda, Manager,retail,"Runcorn, England, England",1,1.0,1.0,1.0,2.0,2.0,28211
+6264,asda, Supply Chain Analyst,retail,"Leeds, England, England",5,5.0,5.0,3.0,5.0,5.0,28211
+6270,asda, Warehouse Colleague,retail,"Newcastle under Lyme, England, England",2,3.0,3.0,2.0,1.0,4.0,28211
+6272,asda, ASDA Colleague,retail,"Hastings, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+6273,asda, Administrative Assistant,retail,"London, England, England",3,3.0,3.0,2.0,2.0,3.0,28211
+6277,asda, ECTM,retail,"Stockport, England, England",4,3.0,4.0,4.0,4.0,4.0,28211
+6278,asda, Manager,retail,"Manchester, England, England",5,4.0,5.0,5.0,5.0,5.0,28211
+6280,asda, Services Colleague,retail,"Sittingbourne, England, England",5,4.0,4.0,4.0,4.0,4.0,28211
+6281,asda, Shop Assistant,retail,"Manchester, England, England",2,1.0,1.0,3.0,2.0,2.0,28211
+6282,asda, Shop Floor Assistant ,retail,"Edinburgh, Scotland, Scotland",3,2.0,3.0,5.0,4.0,4.0,28211
+6283,asda, Shop Floor Colleague,retail,"Gloucester, England, England",3,3.0,2.0,3.0,3.0,2.0,28211
+6285,asda, Warehouse Associate,retail,"Dunstable, England, England",4,4.0,5.0,5.0,3.0,3.0,28211
+6286,asda, ASDA Colleague,retail,"Leeds, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6287,asda, Anonymous Employee,retail,"Wolstanton, England, England",3,3.0,3.0,5.0,4.0,3.0,28211
+6288,asda, Category Planner,retail,"Houston, TX",3,3.0,3.0,3.0,3.0,3.0,28211
+6293,asda, Section Leader,retail,"Brea, CA",1,1.0,2.0,1.0,4.0,1.0,28211
+6294,asda, Section Leader,retail,"Seattle, WA",1,2.0,1.0,1.0,1.0,1.0,28211
+6296,asda, Asd,retail,"Little Rock, AR",3,3.0,3.0,3.0,3.0,3.0,28211
+6297,asda, Night Manager,retail,"Manchester, England, England",3,3.0,1.0,2.0,3.0,4.0,28211
+6298,asda, Personal Shopper,retail,"Dundee, Scotland, Scotland",3,1.0,3.0,5.0,1.0,4.0,28211
+6299,asda, QAE,retail,Bangalore,4,4.0,4.0,4.0,4.0,4.0,28211
+6305,asda, Customer Service,retail,"London, England, England",4,4.0,3.0,3.0,3.0,3.0,28211
+6307,asda, ASDA Colleague,retail,"Reading, England, England",4,5.0,5.0,5.0,5.0,5.0,28211
+6308,asda, Customer Team Member,retail,"Larkhall, Scotland, Scotland",2,2.0,1.0,1.0,1.0,2.0,28211
+6309,asda, Research Assistant,retail,Bangalore Rural,4,4.0,4.0,4.0,4.0,4.0,28211
+6311,asda, Anonymous Employee,retail,"Downpatrick, Northern Ireland, Northern Ireland",2,1.0,1.0,1.0,1.0,1.0,28211
+6313,asda, Customer Service,retail,"Lower Earley, England, England",4,4.0,2.0,4.0,2.0,2.0,28211
+6314,asda, Delivery Driver,retail,"Taunton, England, England",5,4.0,4.0,5.0,5.0,5.0,28211
+6315,asda, Driver/Picker/Cashier,retail,"Thurmaston, England, England",4,4.0,5.0,5.0,5.0,4.0,28211
+6316,asda, E,retail,"Bolton, England, England",5,5.0,3.0,5.0,2.0,2.0,28211
+6318,asda, Checkout Operator,retail,"Leeds, England, England",3,3.0,1.0,1.0,2.0,3.0,28211
+6319,asda, Merchandising Analytics Advocate,retail,"Lutterworth, England, England",4,4.0,5.0,5.0,5.0,3.0,28211
+6320,asda, Order Picker,retail,"Cardiff, Wales, Wales",3,2.0,2.0,3.0,2.0,2.0,28211
+6323,asda, Sales Assistant,retail,"Falmouth, England, England",4,4.0,3.0,2.0,4.0,4.0,28211
+6328,asda, Home Shopping Picker,retail,"Rawtenstall, England, England",4,5.0,4.0,5.0,1.0,2.0,28211
+6329,asda, Pharmacy Assistant,retail,"Birmingham, England, England",1,2.0,1.0,3.0,2.0,2.0,28211
+6330,asda, Security Officer,retail,"London, England, England",1,1.0,3.0,3.0,1.0,4.0,28211
+6334,asda, Administrative Assistant,retail,"London, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+6336,asda, Checkout,retail,"Stockton-on-Tees, England, England",4,5.0,5.0,5.0,5.0,5.0,28211
+6339,asda, Customer Assistant,retail,"Poole, England, England",3,3.0,3.0,4.0,3.0,3.0,28211
+6341,asda, Deliver Driver,retail,"Enfield, England, England",4,4.0,4.0,5.0,3.0,4.0,28211
+6342,asda, Factory,retail,"Manchester, England, England",4,2.0,4.0,3.0,5.0,4.0,28211
+6343,asda, Merchandising Assistant,retail,"Leeds, England, England",4,3.0,4.0,5.0,3.0,5.0,28211
+6346,asda, Checkout Operator,retail,"London, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6348,asda, Home Shopping Section Leader,retail,"Brierley Hill, England, England",1,1.0,1.0,5.0,1.0,1.0,28211
+6349,asda, Top Dosser,retail,"Widnes, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6352,asda, Medicine Counter Assistant,retail,"Orlando, FL",4,3.0,3.0,3.0,3.0,4.0,28211
+6353,asda, ASDA Colleague,retail,"Heston, England, England",3,3.0,3.0,3.0,3.0,2.0,28211
+6354,asda, ASDA Colleague,retail,"Edinburgh, Scotland, Scotland",3,3.0,3.0,3.0,3.0,3.0,28211
+6359,asda, Sales Associate/Cashier,retail,"Orlando, FL",4,3.0,3.0,3.0,3.0,3.0,28211
+6360,asda, Software Development Engineer In Test (SDET),retail,New Delhi,5,5.0,5.0,5.0,5.0,5.0,28211
+6361,asda, Anonymous Employee,retail,"Manchester, England, England",3,3.0,1.0,1.0,1.0,1.0,28211
+6363,asda, Department Manager,retail,"Lutterworth, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6364,asda, Front End Cashier,retail,"Glasgow, Scotland, Scotland",4,3.0,3.0,4.0,2.0,1.0,28211
+6366,asda, Security Guard,retail,"Longbenton, England, England",4,2.0,4.0,4.0,2.0,4.0,28211
+6368,asda, Change Manager,retail,"Falkirk, Scotland, Scotland",3,3.0,3.0,2.0,3.0,4.0,28211
+6369,asda, Customer Assistant,retail,"Bishopbriggs, Scotland, Scotland",3,2.0,3.0,3.0,3.0,3.0,28211
+6370,asda, Fresh Section Leader,retail,"Manchester, England, England",4,3.0,4.0,4.0,4.0,3.0,28211
+6371,asda, N/A,retail,"London, England, England",4,4.0,4.0,5.0,3.0,3.0,28211
+6372,asda, Sales Assistant,retail,"Omagh, Northern Ireland, Northern Ireland",5,5.0,5.0,5.0,5.0,5.0,28211
+6374,asda, Seasonal Sales Associate,retail,"Newcastle upon Tyne, England, England",4,5.0,4.0,4.0,3.0,4.0,28211
+6376,asda, Administration Assistant,retail,"Barry, Wales, Wales",1,1.0,1.0,1.0,1.0,1.0,28211
+6377,asda, Asda Process Colleague,retail,"Cardiff, Wales, Wales",3,3.0,3.0,3.0,2.0,2.0,28211
+6380,asda, Manager,retail,"London, England, England",4,4.0,4.0,4.0,4.0,4.0,28211
+6383,asda, Assistant Manager,retail,"Reading, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6384,asda, Checkout Operator,retail,"Gateshead, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6386,asda, Graduate Student,retail,"Birmingham, England, England",5,3.0,5.0,5.0,5.0,5.0,28211
+6387,asda, Section Leader,retail,"Carlisle, England, England",2,3.0,3.0,3.0,3.0,4.0,28211
+6389,asda, Administration,retail,"Wakefield, England, England",4,5.0,5.0,5.0,5.0,5.0,28211
+6390,asda, Delivery Driver,retail,"North Watford, England, England",1,1.0,1.0,5.0,1.0,1.0,28211
+6391,asda, Delivery Driver,retail,"Waterlooville, England, England",5,4.0,4.0,4.0,4.0,4.0,28211
+6392,asda, George Colleague,retail,"Grangemouth, Scotland, Scotland",3,3.0,1.0,5.0,1.0,3.0,28211
+6394,asda, Team Member,retail,"Norwich, England, England",4,5.0,5.0,5.0,2.0,5.0,28211
+6395,asda, Delivery Driver,retail,"Minworth, England, England",2,2.0,2.0,3.0,2.0,1.0,28211
+6396,asda, Fresh Production and Replenishment Section Manager,retail,"Somerset, NJ",5,2.0,4.0,5.0,5.0,3.0,28211
+6401,asda, ASDA Colleague,retail,"Darlington, South West England, England, England",5,3.0,5.0,4.0,4.0,3.0,28211
+6403,asda, Night Shift Stock Replenishment,retail,"Glenrothes, Scotland, Scotland",3,4.0,2.0,2.0,3.0,2.0,28211
+6404,asda, Section Leader,retail,"Chelmsford, England, England",1,1.0,1.0,5.0,1.0,2.0,28211
+6406,asda, Night Section Leader,retail,"Cardiff, Wales, Wales",3,3.0,4.0,5.0,3.0,4.0,28211
+6408,asda, Pharmacy Dispenser,retail,"Sutton in Ashfield, England, England",5,4.0,5.0,5.0,5.0,5.0,28211
+6409,asda, Quality Lead,retail,"Memphis, TN",3,3.0,3.0,3.0,3.0,3.0,28211
+6410,asda, Security Colleague,retail,"Glasgow, Scotland, Scotland",3,5.0,4.0,4.0,4.0,4.0,28211
+6411,asda, Supermarket Assistant,retail,"Glasgow, Scotland, Scotland",2,2.0,3.0,3.0,1.0,2.0,28211
+6412,asda, Architectural Designer,retail,"Aberdeen, Scotland, Scotland",4,5.0,3.0,5.0,2.0,3.0,28211
+6414,asda, GM Manager,retail,"Newcastle upon Tyne, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6415,asda, George Sales Assistant,retail,"London, England, England",5,5.0,5.0,4.0,4.0,3.0,28211
+6418,asda, Sales Assistant,retail,"Birmingham, England, England",5,2.0,3.0,2.0,5.0,5.0,28211
+6419,asda, Sales Associate,retail,"Wolverhampton, England, England",4,4.0,4.0,5.0,4.0,5.0,28211
+6420,asda, Shop Assistant,retail,"Manchester, England, England",4,5.0,3.0,4.0,4.0,2.0,28211
+6421,asda, Shop Assistant,retail,"London, ON",3,3.0,2.0,3.0,2.0,3.0,28211
+6423,asda, Home Delivery Driver,retail,"Aberdeen, Scotland, Scotland",3,3.0,3.0,3.0,2.0,3.0,28211
+6426,asda, Cashier,retail,"London, England, England",3,4.0,2.0,2.0,2.0,3.0,28211
+6428,asda, Security Guard,retail,"London, England, England",3,2.0,1.0,3.0,3.0,2.0,28211
+6431,asda, Customer Assistant,retail,"Lancaster, England, England",3,3.0,3.0,4.0,3.0,4.0,28211
+6432,asda, Home Shopping Delivery Driver,retail,"Belfast, Northern Ireland, Northern Ireland",2,1.0,2.0,4.0,1.0,4.0,28211
+6436,asda, Checkout Operator,retail,"Brighton, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6438,asda, Store Assistant,retail,"Boldon, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+6439,asda, Systems Analyst,retail,"Leeds, England, England",4,4.0,5.0,5.0,4.0,4.0,28211
+6442,asda, Customer Service Representative,retail,"London, England, England",4,2.0,3.0,3.0,3.0,4.0,28211
+6444,asda, Security Guard,retail,"Halifax, England, England",4,5.0,1.0,5.0,1.0,5.0,28211
+6445,asda, Supervisor,retail,"Dunstable, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+6446,asda, Order Picker,retail,"London, England, England",4,3.0,4.0,4.0,4.0,4.0,28211
+6447,asda, Part Time Cashier,retail,"Barnstaple, England, England",5,5.0,5.0,5.0,5.0,3.0,28211
+6448,asda, Retail Assistant,retail,"Asdean, England, England",1,1.0,1.0,1.0,1.0,1.0,28211
+6449,asda, Retail Sales Associate,retail,"Truro, England, England",3,3.0,4.0,4.0,3.0,4.0,28211
+6451,asda, Store Assistant,retail,"Woking, England, England",4,3.0,3.0,5.0,3.0,2.0,28211
+6452,asda, Store Assistant,retail,"Dunstable, England, England",4,4.0,3.0,5.0,3.0,3.0,28211
+6454,asda, Store Colleague,retail,"Luton, East of England, England, England",4,4.0,4.0,4.0,4.0,4.0,28211
+6455,asda, Warehouse Worker,retail,"South Elmsall, England, England",1,3.0,1.0,5.0,1.0,1.0,28211
+6458,asda, Fork Lift Driver,retail,"Birmingham, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+6459,asda, Part Time Grocery Colleague,retail,"Bloxwich, England, England",3,1.0,2.0,3.0,3.0,3.0,28211
+6461,asda, ASDA Colleague,retail,"Dunstable, England, England",4,3.0,3.0,5.0,2.0,2.0,28211
+6462,asda, Assistant Store Manager,retail,"Newcastle upon Tyne, England, England",4,3.0,4.0,4.0,4.0,4.0,28211
+6464,asda, Conslutative Sales Associate,retail,Mumbai,2,2.0,2.0,2.0,2.0,2.0,28211
+6465,asda, Customer Assistant,retail,"Birmingham, England, England",4,3.0,3.0,4.0,3.0,2.0,28211
+6466,asda, Merchandiser,retail,"Leicester, England, England",4,3.0,4.0,4.0,2.0,3.0,28211
+6468,asda, Warehouseman,retail,"Cardiff, Wales, Wales",4,3.0,3.0,3.0,3.0,3.0,28211
+6470,asda, ASDA Colleague,retail,"Birmingham, England, England",1,2.0,3.0,4.0,2.0,1.0,28211
+6475,asda, Sales Assistant,retail,"Stirling, Scotland, Scotland",5,5.0,5.0,5.0,3.0,3.0,28211
+6476,asda, Shop Assistant,retail,"Hatfield, East of England, England, England",4,2.0,2.0,3.0,1.0,3.0,28211
+6477,asda, Digital Marketing Specialist,retail,"Phoenix, AZ",1,1.0,1.0,1.0,1.0,1.0,28211
+6480,asda, Systems Operations Manager,retail,"Dartford, England, England",4,4.0,4.0,4.0,3.0,3.0,28211
+6483,asda, Maritime Operations,retail,"Edinburgh, Scotland, Scotland",3,3.0,4.0,4.0,3.0,3.0,28211
+6484,asda, Produce Colleague,retail,"Hastings, England, England",3,4.0,2.0,4.0,3.0,3.0,28211
+6485,asda, Section Leader,retail,"Derby, England, England",1,1.0,2.0,1.0,1.0,1.0,28211
+6486,asda, Checkout Operator,retail,"Cambridge, East of England, England, England",3,3.0,3.0,5.0,2.0,2.0,28211
+6487,asda, Customer Service Representative,retail,"Bradford, Yorkshire and the Humber, England, England",4,4.0,4.0,4.0,4.0,3.0,28211
+6489,asda, Customer Service,retail,"London, England, England",4,4.0,5.0,5.0,2.0,3.0,28211
+6490,asda, Customer Service Representative,retail,"Dartford, England, England",3,3.0,3.0,1.0,3.0,3.0,28211
+6492,asda, Engineer,retail,"Andover, England, England",5,5.0,4.0,5.0,3.0,2.0,28211
+6493,asda, Sales Associate,retail,"London, England, England",3,2.0,3.0,2.0,3.0,3.0,28211
+6494,asda, Shelf Stacker,retail,"Lowestoft, England, England",1,2.0,1.0,1.0,1.0,1.0,28211
+6495,asda, Store Colleague,retail,"Sheffield, England, England",1,1.0,1.0,3.0,1.0,3.0,28211
+6498,asda, Front End Colleague,retail,"Glasgow, Scotland, Scotland",4,4.0,4.0,4.0,2.0,3.0,28211
+6500,asda, Home Shopping Delivery Driver,retail,"Liverpool, England, England",3,5.0,3.0,4.0,3.0,3.0,28211
+6501,asda, Online Shopper,retail,"Coventry, England, England",3,3.0,3.0,5.0,3.0,2.0,28211
+6502,asda, Retail Sales Assistant,retail,"Walsall, England, England",4,2.0,3.0,4.0,1.0,3.0,28211
+6506,asda, Cashier,retail,"Wolverhampton, England, England",4,5.0,4.0,4.0,4.0,4.0,28211
+6511,asda, Retail Assistant,retail,"Hinckley, England, England",3,3.0,3.0,4.0,2.0,1.0,28211
+6512,asda, Shop Floor Assistant,retail,"Manchester, England, England",5,5.0,5.0,5.0,3.0,5.0,28211
+6513,asda, ASDA Colleague,retail,"Morley, England, England",5,3.0,4.0,5.0,3.0,1.0,28211
+6514,asda, Customer Service Agent,retail,"Manchester, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6520,asda, Self Service,retail,"Swinton, North West England, England, England",3,4.0,3.0,2.0,1.0,2.0,28211
+6522,asda, General Store Manager,retail,"Birmingham, England, England",5,1.0,3.0,5.0,1.0,5.0,28211
+6524,asda, Customer Assistant,retail,"London, England, England",1,2.0,1.0,3.0,1.0,2.0,28211
+6525,asda, Merchandiser,retail,"Leeds, England, England",2,1.0,5.0,2.0,2.0,2.0,28211
+6529,asda, Service Assistant,retail,"Bolton, England, England",3,3.0,4.0,5.0,1.0,3.0,28211
+6531,asda, Delivery Driver,retail,"Southend-on-Sea, England, England",3,4.0,3.0,3.0,3.0,3.0,28211
+6534,asda, Senior Buyer,retail,"Leeds, England, England",3,1.0,2.0,1.0,3.0,2.0,28211
+6535,asda, Shelf Stacker,retail,"Fraserburgh, Scotland, Scotland",2,3.0,2.0,3.0,1.0,2.0,28211
+6537,asda, Cashier,retail,"Newcastle, England, England",5,3.0,4.0,4.0,2.0,1.0,28211
+6539,asda, Part Time Store Colleague,retail,"Bradford, Yorkshire and the Humber, England, England",4,5.0,2.0,2.0,1.0,3.0,28211
+6544,asda, Bartender,retail,Melbourne,1,5.0,1.0,5.0,1.0,1.0,28211
+6546,asda, General Store Assistant,retail,"Sheffield, England, England",4,2.0,3.0,3.0,4.0,3.0,28211
+6547,asda, Home Delivery Driver,retail,"Morley, England, England",3,5.0,4.0,5.0,5.0,4.0,28211
+6548,asda, Pharmacy Dispenser,retail,"Leicester, England, England",4,4.0,4.0,4.0,4.0,3.0,28211
+6550,asda, Store Colleague,retail,"Wembley, England, England",2,1.0,2.0,4.0,2.0,4.0,28211
+6551,asda, Warehouse Associate,retail,"Erith, England, England",3,2.0,3.0,4.0,5.0,4.0,28211
+6552,asda, ASDA Colleague,retail,"Portadown, Craigavon, Northern Ireland, Northern Ireland",4,5.0,5.0,5.0,4.0,4.0,28211
+6555,asda, Night section Manager,retail,"Bolton, England, England",2,2.0,3.0,4.0,3.0,3.0,28211
+6560,asda, Checkout Operator,retail,"Walsall, England, England",3,4.0,4.0,4.0,4.0,4.0,28211
+6562,asda, George Specialist,retail,"Leicester, England, England",2,2.0,3.0,4.0,1.0,2.0,28211
+6564,asda, Supply Analyst,retail,"Leeds, England, England",3,3.0,3.0,3.0,3.0,3.0,28211
+6565,asda, Customer Service Assistant,retail,"Manchester, England, England",5,3.0,4.0,5.0,5.0,3.0,28211
+6570,asda, Shop Assistant,retail,Liverpool,5,5.0,3.0,4.0,4.0,4.0,28211
+6577,asda, Checkout Operator,retail,"Manchester, England, England",4,3.0,3.0,5.0,3.0,3.0,28211
+6578,asda, Customer Service,retail,"Teesside County Borough, England, England",4,5.0,4.0,5.0,1.0,1.0,28211
+6580,asda, Retail Assistant,retail,"Swanley, England, England",1,1.0,1.0,2.0,2.0,1.0,28211
+6582,asda, Section Leader,retail,"Belfast, Northern Ireland, Northern Ireland",1,1.0,1.0,2.0,1.0,1.0,28211
+6588,asda, Section Leader,retail,"Castleford, England, England",3,4.0,5.0,5.0,3.0,4.0,28211
+6590,asda, ASDA Colleague,retail,"Halifax, England, England",5,5.0,5.0,5.0,5.0,5.0,28211
+6593,asda, Customer Assistant,retail,"Edinburgh, Scotland, Scotland",3,3.0,3.0,3.0,3.0,3.0,28211
+6595,asda, Sales Assistant,retail,"London, England, England",4,3.0,3.0,3.0,3.0,3.0,28211
+6600,asda, Customer Assistant,retail,"Darlington, North East England, England, England",3,2.0,3.0,5.0,1.0,3.0,28211
+6602,asda, Customer Service Representative,retail,"Bradford, Yorkshire and the Humber, England, England",4,3.0,5.0,4.0,3.0,3.0,28211
+6604,asda, ASDA Colleague,retail,"Biggleswade, England, England",3,3.0,3.0,4.0,3.0,2.0,28211
+6605,asda, Online Support Manager,retail,"Worthing, South East England, England, England",5,1.0,4.0,5.0,5.0,3.0,28211
+6607,asda, Trolley Porter,retail,"Edinburgh, Scotland, Scotland",3,4.0,4.0,1.0,4.0,4.0,28211
