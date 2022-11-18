@@ -5,12 +5,14 @@
 
 
 
-final Project topic: can we rate a job's value?
+### final Project topic: 
+
+can we rate a job's value?
 
 
 #### source of data:
 
-The  core question is to determine what features best predicts the over all ratings of a jobs. The starting datasets were sourced from Kaggle. 
+The  core question is to determine what features best predicts the over all ratings of a jobs. The starting datasets were sourced from Kaggle. the two datasets were merged with 27 columns.
 
 Link to the data set:
 
@@ -18,7 +20,8 @@ https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews?resource=dow
  
 https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset
 
-the two datasets were merged showing 27 columns.
+the provisional dataset cleaned and has 11 columns.
+
 (https://github.com/nndavis/final_project/blob/main/data_small.csv)
 
 
@@ -38,7 +41,6 @@ What are the top 3 factors that impact the overall job rating?
 What do future employees look for in a job?
 
 ####  Machine Learning Model:
-
 
 
 As far as machine learning goes, our "target" would be overall rating and we would "classify"/train our data off whether or not a job is good or bad. Good being ratings 3+ and bad being 2-. We could use the other 17 columns as features, but we would more than likely thin down the long string columns such as "pros" and "cons" as those would be difficult to turn into numerical values which is necessity for machine learning.
