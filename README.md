@@ -22,7 +22,11 @@ the two datasets were merged showing 27 columns.
 (https://github.com/nndavis/final_project/blob/main/data_small.csv)
 
 
-#### Reasons : As we are finishing bootcamp and about to start looking for jobs. We wanted know what companies and jobs will be good to look for and what features would be best to consider while looking for jobs and which companies are best to be considered.
+#### Reasons :
+
+As we are finishing bootcamp and about to start looking for jobs. We wanted know what companies and jobs will be good to look for and what features would be best to 
+
+consider while looking for jobs and which companies are best to be considered.
 
 ### Questions hope to answer:
 
