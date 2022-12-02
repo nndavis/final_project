@@ -43,15 +43,6 @@ What do future employees look for in a job?
 
 
 
-
-## ERD - Entity Relationship Diagram
-
-Below is an ERD depicting our tables and the relationships between them
-
-<img src="https://raw.githubusercontent.com/nndavis/final_project/Db-AWS/ERD.png">
-
-
-
 ## Data Cleaning
 
 The glassdoor reviews data set had originally had 18 columns before we began cleaning the data.
@@ -74,6 +65,8 @@ Then we merged the two datatsets creating a inner join on name column.
 
 ## Database
 In our analysis there were multiple tables created to help us with visualizations:
+
+we created tables using Postgress SQL. Then we connected our database with AWS cloud console.
 companies table image:
  ![Companies table](https://github.com/nndavis/final_project/blob/Db-AWS/companies%20table.png?raw=true)
  
@@ -84,6 +77,15 @@ companies table image:
  
  combined data table:
   ![combined table](https://github.com/nndavis/final_project/blob/Db-AWS/joined%20tables%20data.png?raw=true)
+  
+  
+  
+  ## ERD - Entity Relationship Diagram
+
+Below is an ERD depicting our tables and the relationships between them
+
+<img src="https://raw.githubusercontent.com/nndavis/final_project/Db-AWS/ERD.png">
+
 
 
 
