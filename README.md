@@ -76,7 +76,7 @@ companies table image:
  
  
  combined data table:
-  ![combined table](https://github.com/nndavis/final_project/blob/Db-AWS/joined%20tables%20data.png?raw=true)
+  ![combined table](https://github.com/nndavis/final_project/blob/Database/merged_2.png?raw=true)
   
   
   
