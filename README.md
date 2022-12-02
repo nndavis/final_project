@@ -152,7 +152,22 @@ The Tableau Dashboard allows users to see
 
 Future iterations of this analysis could seek the use of:
 
+## Tools
+- Jupyter Notebook
+- Google Slides
+- Tableau
+- PgAdmin4
+- Github Desktop App
+- Microsoft Excel
 
+## Languages & Libraries
+- Python
+- Pandas
+- Postgresql
+- Scikit Learn
+- TensorFlow
+- SqlAlchemy
+- Pyscopg2
 
 ## Links
 
