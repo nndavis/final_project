@@ -31,7 +31,7 @@ Another issue is that neural networks have difficulty showing correlation from d
 The positive to using a neural network is that it uses algorithms that work like a human brain. 
 Our data is based off reviews by humans, so it makes sense to use machine learning that mimics those decisions.
 
-
+The second machine learning model we used is Random Forest Classifier. This is a supervised machine learning algorithm that we are using to classify. Compared to the neural network model, we dropped the overall ratings, id, and good columns. With this model our target is overall rating. Our goal is to calculate the importance of the features. That was calculated by using .feature_importances_ on our model. Our accuracy for this model is 0.98 on both the testing and training data. The precision and recall are very close in values with little to no difference. Overall the model runs well.
 
 
 
