@@ -43,6 +43,15 @@ What do future employees look for in a job?
 
 
 
+#### Team Communication
+We used Slack: for discussion about the project work or troubleshooting
+
+Github Read Me: for project planning and note-taking
+        
+Zoom: for co-working sessions
+
+
+
 ## Data Cleaning
 
 The glassdoor reviews data set had originally had 18 columns before we began cleaning the data.
