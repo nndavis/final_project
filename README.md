@@ -58,7 +58,7 @@ The companies dataset had originally 11 columns beofre cleaning the data.
 
 Then we merged the two datatsets creating a inner join on name column. 
 
-![combined dataset]()
+![combined dataset](https://github.com/nndavis/final_project/blob/main/Resources/images/merged_2.png)
 
 
 
@@ -68,15 +68,15 @@ In our analysis there were multiple tables created to help us with visualization
 
 we created tables using Postgress SQL. Then we connected our database with AWS cloud console.
 companies table image:
- ![Companies table](https://github.com/nndavis/final_project/blob/Db-AWS/companies%20table.png?raw=true)
+ ![Companies table](https://github.com/nndavis/final_project/blob/main/Resources/images/companies_2.png)
  
  
  Reviews table image:
- ![Reviews table](https://github.com/nndavis/final_project/blob/Db-AWS/reviews%20table.png?raw=true)
+ ![Reviews table](https://github.com/nndavis/final_project/blob/main/Resources/images/review_2.png)
  
  
  combined data table:
-  ![combined table](https://github.com/nndavis/final_project/blob/Database/merged_2.png?raw=true)
+  ![combined table](https://github.com/nndavis/final_project/blob/main/Resources/images/merged_2.png)
   
   
   
@@ -150,7 +150,7 @@ The Tableau Dashboard allows users to see
 
 ![Interactive element Image](https://github.com/nndavis/final_project/blob/Tableau/tabeau%20I_E2.png?raw=true)
 
-![Interactive element Image](https://github.com/nndavis/final_project/blob/Tableau/tableau%20IE_1.png?raw=true)
+![Interactive element Image](https://github.com/nndavis/final_project/blob/main/Resources/images/Job%20Ratings%20Dashboard.png)
 
 ## Lessons Learned
 
