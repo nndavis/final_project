@@ -1,0 +1,2 @@
+# Note about the location data
+Getting the location coordinates had to be scrapped as the API used (OpenWeatherMap) had a limit of 60 API calls per minute, without having to pay money. Also, we tried using a local csv file instead with the intention to join the data into our existing data, but this also could not be done without needind more time. The data needed to be cleaned futher.
