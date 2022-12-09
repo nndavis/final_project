@@ -152,7 +152,7 @@ Our data is based off reviews by humans, so it makes sense to use machine learni
 
 ## Data Visualization
 
-Tableau Dashboard Link:
+Tableau Dashboard Link: 
 [Tableau Dashboard Link]()
 
 The Tableau Dashboard allows users to see 
