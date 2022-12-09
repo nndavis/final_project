@@ -167,24 +167,24 @@ Future iterations of this analysis could seek the use of:
 
 ## Future Recommendations
 
-Utilize the data in the location column. This feature could give further insight into where the most sought after jobs are, and could be a driving factor in predicting overall rating. A heatmap of the globe showing the locations of the jobs with the highest overall rating could have been a useful visualization for our group.
+#Utilize the data in the location column. This feature could give further insight into where the most sought after jobs are, and could be a driving factor in predicting overall rating. A heatmap of the globe showing the locations of the jobs with the highest overall rating could have been a useful visualization for our group.
 
-Diversify the datasets to cover different factors in predicting overall job rating. Doing this can give a fuller picture to what people find important in a job.
+#Diversify the datasets to cover different factors in predicting overall job rating. Doing this can give a fuller picture to what people find important in a job.
 
-Integrating tableau with AWS for easy deployment and faster analysis.
+#Integrating tableau with AWS for easy deployment and faster analysis.
 
 ## Challenges
 
-# Sharing and accessing the data:
+#Sharing and accessing the data:
 Our combined raw dataset was over 1GB. This made storing data in the cloud difficult or impossible without paying due to uploading limits.
 
-# Cleaning the data:
+#Cleaning the data:
 Half of the raw data contained null values or syntax errors, and was not used as we could not find a way to clean a majority of it efficiently
 
-# Joining tables in PgAdmin:
+#Joining tables in PgAdmin:
 Our datasets’ indexes were the company names. As there were many duplicate values, we did not have Primary Keys, which made joining tables difficult. As a workaround, we gave each row its own unique index as an integer.
 
-# Utilizing the machine learning model:
+#Utilizing the machine learning model:
 Neural network ML was not the best option for what we needed
 
 
